@@ -1,0 +1,1683 @@
+movie_key,name,year,imdb_id
+1,Toy Story (1995),01-Jan-1995,tt0114709
+2,GoldenEye (1995),01-Jan-1995,tt0113189
+3,Four Rooms (1995),01-Jan-1995,tt0113101
+4,Get Shorty (1995),01-Jan-1995,tt0113161
+5,Copycat (1995),01-Jan-1995,tt0112722
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),01-Jan-1995,tt0115012
+7,Twelve Monkeys (1995),01-Jan-1995,tt0114746
+8,Babe (1995),01-Jan-1995,tt0112431
+9,Dead Man Walking (1995),01-Jan-1995,tt0112818
+10,Richard III (1995),22-Jan-1996,tt0114279
+11,Seven (Se7en) (1995),01-Jan-1995,tt0114369
+12,"Usual Suspects, The (1995)",14-Aug-1995,tt0114814
+13,Mighty Aphrodite (1995),30-Oct-1995,tt0113819
+14,"Postino, Il (1994)",01-Jan-1994,tt0110877
+15,Mr. Holland's Opus (1995),29-Jan-1996,tt0113862
+16,French Twist (Gazon maudit) (1995),01-Jan-1995,tt0113149
+17,From Dusk Till Dawn (1996),05-Feb-1996,tt0116367
+18,"White Balloon, The (1995)",01-Jan-1995,tt0112445
+19,Antonia's Line (1995),01-Jan-1995,tt0112379
+20,Angels and Insects (1995),01-Jan-1995,tt0112365
+21,Muppet Treasure Island (1996),16-Feb-1996,tt0117110
+22,Braveheart (1995),16-Feb-1996,tt0112573
+23,Taxi Driver (1976),16-Feb-1996,tt0075314
+24,Rumble in the Bronx (1995),23-Feb-1996,tt0113326
+25,"Birdcage, The (1996)",08-Mar-1996,tt0115685
+26,"Brothers McMullen, The (1995)",01-Jan-1995,tt0112585
+27,Bad Boys (1995),01-Jan-1995,tt0112442
+28,Apollo 13 (1995),01-Jan-1995,tt0112384
+29,Batman Forever (1995),01-Jan-1995,tt0112462
+30,Belle de jour (1967),01-Jan-1967,tt0061395
+31,Crimson Tide (1995),01-Jan-1995,tt0112740
+32,Crumb (1994),01-Jan-1994,tt0109508
+33,Desperado (1995),01-Jan-1995,tt0112851
+34,"Doom Generation, The (1995)",01-Jan-1995,tt0112887
+35,Free Willy 2: The Adventure Home (1995),01-Jan-1995,tt0113114
+36,Mad Love (1995),01-Jan-1995,tt0113729
+37,Nadja (1994),01-Jan-1994,tt0110620
+38,"Net, The (1995)",01-Jan-1995,tt0113957
+39,Strange Days (1995),01-Jan-1995,tt0114558
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",01-Jan-1995,tt0114682
+41,Billy Madison (1995),01-Jan-1995,tt0112508
+42,Clerks (1994),01-Jan-1994,tt0109445
+43,Disclosure (1994),01-Jan-1994,tt0109635
+44,Dolores Claiborne (1994),01-Jan-1994,tt0109642
+45,Eat Drink Man Woman (1994),01-Jan-1994,tt0111797
+46,Exotica (1994),01-Jan-1994,tt0109759
+47,Ed Wood (1994),01-Jan-1994,tt0109707
+48,Hoop Dreams (1994),01-Jan-1994,tt0110057
+49,I.Q. (1994),01-Jan-1994,tt0110099
+50,Star Wars (1977),01-Jan-1977,tt0076759
+51,Legends of the Fall (1994),01-Jan-1994,tt0110322
+52,"Madness of King George, The (1994)",01-Jan-1994,tt0110428
+53,Natural Born Killers (1994),01-Jan-1994,tt0110632
+54,Outbreak (1995),01-Jan-1995,tt0114069
+55,"Professional, The (1994)",01-Jan-1994,tt0110413
+56,Pulp Fiction (1994),01-Jan-1994,tt0110912
+57,Priest (1994),01-Jan-1994,tt0110889
+58,Quiz Show (1994),01-Jan-1994,tt0110932
+59,Three Colors: Red (1994),01-Jan-1994,tt0111495
+60,Three Colors: Blue (1993),01-Jan-1993,tt0108394
+61,Three Colors: White (1994),01-Jan-1994,tt0111507
+62,Stargate (1994),01-Jan-1994,tt0111282
+63,"Santa Clause, The (1994)",01-Jan-1994,tt0111070
+64,"Shawshank Redemption, The (1994)",01-Jan-1994,tt0111161
+65,What's Eating Gilbert Grape (1993),01-Jan-1993,tt0108550
+66,While You Were Sleeping (1995),01-Jan-1995,tt0114924
+67,Ace Ventura: Pet Detective (1994),01-Jan-1994,tt0109040
+68,"Crow, The (1994)",01-Jan-1994,tt0109506
+69,Forrest Gump (1994),01-Jan-1994,tt0109830
+70,Four Weddings and a Funeral (1994),01-Jan-1994,tt0109831
+71,"Lion King, The (1994)",01-Jan-1994,tt0110357
+72,"Mask, The (1994)",01-Jan-1994,tt0110475
+73,Maverick (1994),01-Jan-1994,tt0110478
+74,Faster Pussycat! Kill! Kill! (1965),01-Jan-1965,tt0059170
+75,Brother Minister: The Assassination of Malcolm X (1994),01-Jan-1994,tt0109339
+76,Carlito's Way (1993),01-Jan-1993,tt0106519
+77,"Firm, The (1993)",01-Jan-1993,tt0106918
+78,Free Willy (1993),01-Jan-1993,tt0106965
+79,"Fugitive, The (1993)",01-Jan-1993,tt0106977
+80,Hot Shots! Part Deux (1993),01-Jan-1993,tt0107144
+81,"Hudsucker Proxy, The (1994)",01-Jan-1994,tt0110074
+82,Jurassic Park (1993),01-Jan-1993,tt0107290
+83,Much Ado About Nothing (1993),01-Jan-1993,tt0107616
+84,Robert A. Heinlein's The Puppet Masters (1994),01-Jan-1994,tt0111003
+85,"Ref, The (1994)",01-Jan-1994,tt0110955
+86,"Remains of the Day, The (1993)",01-Jan-1993,tt0107943
+87,Searching for Bobby Fischer (1993),01-Jan-1993,tt0108065
+88,Sleepless in Seattle (1993),01-Jan-1993,tt0108160
+89,Blade Runner (1982),01-Jan-1982,tt0083658
+90,So I Married an Axe Murderer (1993),01-Jan-1993,tt0108174
+91,"Nightmare Before Christmas, The (1993)",01-Jan-1993,tt0107688
+92,True Romance (1993),01-Jan-1993,tt0108399
+93,Welcome to the Dollhouse (1995),24-May-1996,tt0114906
+94,Home Alone (1990),01-Jan-1990,tt0099785
+95,Aladdin (1992),01-Jan-1992,tt0103639
+96,Terminator 2: Judgment Day (1991),01-Jan-1991,tt0103064
+97,Dances with Wolves (1990),01-Jan-1990,tt0099348
+98,"Silence of the Lambs, The (1991)",01-Jan-1991,tt0102926
+99,Snow White and the Seven Dwarfs (1937),01-Jan-1937,tt0029583
+100,Fargo (1996),14-Feb-1997,tt0116282
+101,Heavy Metal (1981),08-Mar-1981,tt0082509
+102,"Aristocats, The (1970)",01-Jan-1970,tt0065421
+103,All Dogs Go to Heaven 2 (1996),29-Mar-1996,tt0115509
+104,Theodore Rex (1995),29-Mar-1996,tt0114658
+105,Sgt. Bilko (1996),29-Mar-1996,tt0117608
+106,Diabolique (1996),01-Jan-1996,tt0116095
+107,Moll Flanders (1996),14-Jun-1996,tt0117071
+108,Kids in the Hall: Brain Candy (1996),12-Apr-1996,tt0116768
+109,Mystery Science Theater 3000: The Movie (1996),19-Apr-1996,tt0117128
+110,Operation Dumbo Drop (1995),01-Jan-1995,tt0114048
+111,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,tt0117979
+112,Flipper (1996),10-May-1996,tt0116322
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",19-Apr-1996,tt0113362
+114,Wallace & Gromit: The Best of Aardman Animation (1996),05-Apr-1996,tt0118114
+115,"Haunted World of Edward D. Wood Jr., The (1995)",26-Apr-1996,tt0113270
+116,Cold Comfort Farm (1995),23-Apr-1996,tt0112701
+117,"Rock, The (1996)",07-Jun-1996,tt0117500
+118,Twister (1996),10-May-1996,tt0117998
+119,Maya Lin: A Strong Clear Vision (1994),01-Jan-1994,tt0110480
+120,Striptease (1996),28-Jun-1996,tt0117765
+121,Independence Day (ID4) (1996),03-Jul-1996,tt0116629
+122,"Cable Guy, The (1996)",14-Jun-1996,tt0115798
+123,"Frighteners, The (1996)",19-Jul-1996,tt0116365
+124,Lone Star (1996),21-Jun-1996,tt0116905
+125,Phenomenon (1996),29-Jun-1996,tt0117333
+126,"Spitfire Grill, The (1996)",06-Sep-1996,tt0117718
+127,"Godfather, The (1972)",01-Jan-1972,tt0068646
+128,Supercop (1992),26-Jul-1996,tt0104558
+129,Bound (1996),04-Oct-1996,tt0115736
+130,Kansas City (1996),16-Aug-1996,tt0116745
+131,Breakfast at Tiffany's (1961),01-Jan-1961,tt0054698
+132,"Wizard of Oz, The (1939)",01-Jan-1939,tt0032138
+133,Gone with the Wind (1939),01-Jan-1939,tt0031381
+134,Citizen Kane (1941),01-Jan-1941,tt0033467
+135,2001: A Space Odyssey (1968),01-Jan-1968,tt0062622
+136,Mr. Smith Goes to Washington (1939),01-Jan-1939,tt0031679
+137,Big Night (1996),20-Sep-1996,tt0115678
+138,D3: The Mighty Ducks (1996),04-Oct-1996,tt0116000
+139,"Love Bug, The (1969)",01-Jan-1969,tt0064603
+140,Homeward Bound: The Incredible Journey (1993),01-Jan-1993,tt0107131
+141,"20,000 Leagues Under the Sea (1954)",01-Jan-1954,tt0046672
+142,Bedknobs and Broomsticks (1971),01-Jan-1971,tt0066817
+143,"Sound of Music, The (1965)",01-Jan-1965,tt0059742
+144,Die Hard (1988),01-Jan-1988,tt0095016
+145,"Lawnmower Man, The (1992)",01-Jan-1992,tt0104692
+146,Unhook the Stars (1996),30-Oct-1996,tt0118044
+147,"Long Kiss Goodnight, The (1996)",05-Oct-1996,tt0116908
+148,"Ghost and the Darkness, The (1996)",11-Oct-1996,tt0116409
+149,Jude (1996),01-Nov-1996,tt0116722
+150,Swingers (1996),18-Oct-1996,tt0117802
+151,Willy Wonka and the Chocolate Factory (1971),01-Jan-1971,tt0067992
+152,Sleeper (1973),01-Jan-1973,tt0070707
+153,"Fish Called Wanda, A (1988)",01-Jan-1988,tt0095159
+154,Monty Python's Life of Brian (1979),01-Jan-1979,tt0079470
+155,Dirty Dancing (1987),01-Jan-1987,tt0092890
+156,Reservoir Dogs (1992),01-Jan-1992,tt0105236
+157,Platoon (1986),01-Jan-1986,tt0091763
+158,Weekend at Bernie's (1989),01-Jan-1989,tt0098627
+159,Basic Instinct (1992),01-Jan-1992,tt0103772
+160,Glengarry Glen Ross (1992),01-Jan-1992,tt0104348
+161,Top Gun (1986),01-Jan-1986,tt0092099
+162,On Golden Pond (1981),01-Jan-1981,tt0082846
+163,"Return of the Pink Panther, The (1974)",01-Jan-1974,tt0072081
+164,"Abyss, The (1989)",01-Jan-1989,tt0096754
+165,Jean de Florette (1986),01-Jan-1986,tt0091288
+166,Manon of the Spring (Manon des sources) (1986),01-Jan-1986,tt0091480
+167,Private Benjamin (1980),01-Jan-1980,tt0081375
+168,Monty Python and the Holy Grail (1974),01-Jan-1974,tt0071853
+169,"Wrong Trousers, The (1993)",01-Jan-1993,tt0108598
+170,Cinema Paradiso (1988),01-Jan-1988,tt0095765
+171,Delicatessen (1991),01-Jan-1991,tt0101700
+172,"Empire Strikes Back, The (1980)",01-Jan-1980,tt0080684
+173,"Princess Bride, The (1987)",01-Jan-1987,tt0093779
+174,Raiders of the Lost Ark (1981),01-Jan-1981,tt0082971
+175,Brazil (1985),01-Jan-1985,tt0088846
+176,Aliens (1986),01-Jan-1986,tt0090605
+177,"Good, The Bad and The Ugly, The (1966)",01-Jan-1966,tt0060196
+178,12 Angry Men (1957),01-Jan-1957,tt0050083
+179,"Clockwork Orange, A (1971)",01-Jan-1971,tt0066921
+180,Apocalypse Now (1979),01-Jan-1979,tt0078788
+181,Return of the Jedi (1983),14-Mar-1997,tt0086190
+182,GoodFellas (1990),01-Jan-1990,tt0099685
+183,Alien (1979),01-Jan-1979,tt0078748
+184,Army of Darkness (1993),01-Jan-1993,tt0106308
+185,Psycho (1960),01-Jan-1960,tt0054215
+186,"Blues Brothers, The (1980)",01-Jan-1980,tt0080455
+187,"Godfather: Part II, The (1974)",01-Jan-1974,tt0071562
+188,Full Metal Jacket (1987),01-Jan-1987,tt0093058
+189,"Grand Day Out, A (1992)",01-Jan-1992,tt0104361
+190,Henry V (1989),01-Jan-1989,tt0097499
+191,Amadeus (1984),01-Jan-1984,tt0086879
+192,Raging Bull (1980),01-Jan-1980,tt0081398
+193,"Right Stuff, The (1983)",01-Jan-1983,tt0086197
+194,"Sting, The (1973)",01-Jan-1973,tt0070735
+195,"Terminator, The (1984)",01-Jan-1984,tt0088247
+196,Dead Poets Society (1989),01-Jan-1989,tt0097165
+197,"Graduate, The (1967)",01-Jan-1967,tt0061722
+198,Nikita (La Femme Nikita) (1990),01-Jan-1990,tt0100263
+199,"Bridge on the River Kwai, The (1957)",01-Jan-1957,tt0050212
+200,"Shining, The (1980)",01-Jan-1980,tt0081505
+201,Evil Dead II (1987),01-Jan-1987,tt0092991
+202,Groundhog Day (1993),01-Jan-1993,tt0107048
+203,Unforgiven (1992),01-Jan-1992,tt0105695
+204,Back to the Future (1985),01-Jan-1985,tt0088763
+205,Patton (1970),01-Jan-1970,tt0066206
+206,Akira (1988),01-Jan-1988,tt0094625
+207,Cyrano de Bergerac (1990),01-Jan-1990,tt0099334
+208,Young Frankenstein (1974),01-Jan-1974,tt0072431
+209,This Is Spinal Tap (1984),01-Jan-1984,tt0088258
+210,Indiana Jones and the Last Crusade (1989),01-Jan-1989,tt0097576
+211,M*A*S*H (1970),01-Jan-1970,tt0066026
+212,"Unbearable Lightness of Being, The (1988)",01-Jan-1988,tt0096332
+213,"Room with a View, A (1986)",01-Jan-1986,tt0091867
+214,Pink Floyd - The Wall (1982),01-Jan-1982,tt0084503
+215,Field of Dreams (1989),01-Jan-1989,tt0097351
+216,When Harry Met Sally... (1989),01-Jan-1989,tt0098635
+217,Bram Stoker's Dracula (1992),01-Jan-1992,tt0103874
+218,Cape Fear (1991),01-Jan-1991,tt0101540
+219,"Nightmare on Elm Street, A (1984)",01-Jan-1984,tt0087800
+220,"Mirror Has Two Faces, The (1996)",15-Nov-1996,tt0117057
+221,Breaking the Waves (1996),15-Nov-1996,tt0115751
+222,Star Trek: First Contact (1996),22-Nov-1996,tt0117731
+223,Sling Blade (1996),22-Nov-1996,tt0117666
+224,Ridicule (1996),27-Nov-1996,tt0117477
+225,101 Dalmatians (1996),27-Nov-1996,tt0115433
+226,Die Hard 2 (1990),01-Jan-1990,tt0099423
+227,Star Trek VI: The Undiscovered Country (1991),01-Jan-1991,tt0102975
+228,Star Trek: The Wrath of Khan (1982),01-Jan-1982,tt0084726
+229,Star Trek III: The Search for Spock (1984),01-Jan-1984,tt0088170
+230,Star Trek IV: The Voyage Home (1986),01-Jan-1986,tt0092007
+231,Batman Returns (1992),01-Jan-1992,tt0103776
+232,Young Guns (1988),01-Jan-1988,tt0096487
+233,Under Siege (1992),01-Jan-1992,tt0105690
+234,Jaws (1975),01-Jan-1975,tt0073195
+235,Mars Attacks! (1996),13-Dec-1996,tt0116996
+236,Citizen Ruth (1996),13-Dec-1996,tt0115906
+237,Jerry Maguire (1996),13-Dec-1996,tt0116695
+238,Raising Arizona (1987),01-Jan-1987,tt0093822
+239,Sneakers (1992),01-Jan-1992,tt0105435
+240,Beavis and Butt-head Do America (1996),20-Dec-1996,tt0115641
+241,"Last of the Mohicans, The (1992)",01-Jan-1992,tt0104691
+242,Kolya (1996),24-Jan-1997,tt0116790
+243,Jungle2Jungle (1997),07-Mar-1997,tt0119432
+244,Smilla's Sense of Snow (1997),14-Mar-1997,tt0120152
+245,"Devil's Own, The (1997)",26-Mar-1997,tt0118972
+246,Chasing Amy (1997),01-Jan-1997,tt0118842
+247,Turbo: A Power Rangers Movie (1997),28-Mar-1997,tt0120389
+248,Grosse Pointe Blank (1997),11-Apr-1997,tt0119229
+249,Austin Powers: International Man of Mystery (1997),02-May-1997,tt0118655
+250,"Fifth Element, The (1997)",09-May-1997,tt0119116
+251,Shall We Dance? (1996),11-Jul-1997,tt0117615
+252,"Lost World: Jurassic Park, The (1997)",23-May-1997,tt0119567
+253,"Pillow Book, The (1995)",13-Jun-1997,tt0114134
+254,Batman & Robin (1997),20-Jun-1997,tt0118688
+255,My Best Friend's Wedding (1997),20-Jun-1997,tt0119738
+256,When the Cats Away (Chacun cherche son chat) (1996),20-Jun-1997,tt0115856
+257,Men in Black (1997),04-Jul-1997,tt0119654
+258,Contact (1997),11-Jul-1997,tt0118884
+259,George of the Jungle (1997),01-Jan-1997,tt0119190
+260,Event Horizon (1997),01-Jan-1997,tt0119081
+261,Air Bud (1997),01-Aug-1997,tt0118570
+262,In the Company of Men (1997),01-Aug-1997,tt0119361
+263,Steel (1997),15-Aug-1997,tt0120207
+264,Mimic (1997),22-Aug-1997,tt0119675
+265,"Hunt for Red October, The (1990)",01-Jan-1990,tt0099810
+266,Kull the Conqueror (1997),29-Aug-1997,tt0119484
+267,unknown,,
+268,Chasing Amy (1997),01-Jan-1997,tt0118842
+269,"Full Monty, The (1997)",01-Jan-1997,tt0119164
+270,Gattaca (1997),01-Jan-1997,tt0119177
+271,Starship Troopers (1997),01-Jan-1997,tt0120201
+272,Good Will Hunting (1997),01-Jan-1997,tt0119217
+273,Heat (1995),01-Jan-1995,tt0113277
+274,Sabrina (1995),01-Jan-1995,tt0114319
+275,Sense and Sensibility (1995),01-Jan-1995,tt0114388
+276,Leaving Las Vegas (1995),01-Jan-1995,tt0113627
+277,Restoration (1995),01-Jan-1995,tt0114272
+278,Bed of Roses (1996),01-Jan-1996,tt0115644
+279,Once Upon a Time... When We Were Colored (1995),01-Jan-1995,tt0114039
+280,Up Close and Personal (1996),01-Mar-1996,tt7343706
+281,"River Wild, The (1994)",01-Jan-1994,tt0110997
+282,"Time to Kill, A (1996)",13-Jul-1996,tt0117913
+283,Emma (1996),02-Aug-1996,tt0116191
+284,Tin Cup (1996),16-Aug-1996,tt0117918
+285,Secrets & Lies (1996),04-Oct-1996,tt0117589
+286,"English Patient, The (1996)",15-Nov-1996,tt0116209
+287,Marvin's Room (1996),18-Dec-1996,tt0116999
+288,Scream (1996),20-Dec-1996,tt0117571
+289,Evita (1996),25-Dec-1996,tt0116250
+290,Fierce Creatures (1997),10-Jan-1997,tt0119115
+291,Absolute Power (1997),14-Feb-1997,tt0118548
+292,Rosewood (1997),21-Feb-1997,tt0120036
+293,Donnie Brasco (1997),28-Feb-1997,tt0119008
+294,Liar Liar (1997),21-Mar-1997,tt0119528
+295,Breakdown (1997),02-May-1997,tt0118771
+296,"Promesse, La (1996)",16-May-1997,tt0117398
+297,Ulee's Gold (1997),01-Jan-1997,tt0120402
+298,Face/Off (1997),27-Jun-1997,tt0119094
+299,Hoodlum (1997),22-Aug-1997,tt0119311
+300,Air Force One (1997),01-Jan-1997,tt0118571
+301,In & Out (1997),19-Sep-1997,tt0119360
+302,L.A. Confidential (1997),01-Jan-1997,tt0119488
+303,Ulee's Gold (1997),01-Jan-1997,tt0120402
+304,Fly Away Home (1996),13-Sep-1996,tt0116329
+305,"Ice Storm, The (1997)",01-Jan-1997,tt0119349
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",01-Jan-1997,tt0119280
+307,"Devil's Advocate, The (1997)",01-Jan-1997,tt0118971
+308,FairyTale: A True Story (1997),01-Jan-1997,tt0119095
+309,Deceiver (1997),01-Jan-1997,tt0119527
+310,"Rainmaker, The (1997)",01-Jan-1997,tt0119978
+311,"Wings of the Dove, The (1997)",01-Jan-1997,tt0120520
+312,Midnight in the Garden of Good and Evil (1997),01-Jan-1997,tt0119668
+313,Titanic (1997),01-Jan-1997,tt0120338
+314,3 Ninjas: High Noon At Mega Mountain (1998),01-Jan-1997,tt0118539
+315,Apt Pupil (1998),23-Oct-1998,tt0118636
+316,As Good As It Gets (1997),23-Dec-1997,tt0119822
+317,In the Name of the Father (1993),01-Jan-1993,tt0107207
+318,Schindler's List (1993),01-Jan-1993,tt0108052
+319,Everyone Says I Love You (1996),06-Dec-1996,tt0116242
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),06-Dec-1996,tt0117293
+321,Mother (1996),25-Dec-1996,tt0117091
+322,Murder at 1600 (1997),18-Apr-1997,tt0119731
+323,Dante's Peak (1997),07-Feb-1997,tt0118928
+324,Lost Highway (1997),21-Feb-1997,tt0116922
+325,Crash (1996),21-Mar-1997,tt0115964
+326,G.I. Jane (1997),01-Jan-1997,tt0119173
+327,Cop Land (1997),01-Jan-1997,tt0118887
+328,Conspiracy Theory (1997),08-Aug-1997,tt0118883
+329,Desperate Measures (1998),30-Jan-1998,tt0118966
+330,187 (1997),01-Jan-1997,tt0118531
+331,"Edge, The (1997)",26-Sep-1997,tt0119051
+332,Kiss the Girls (1997),01-Jan-1997,tt0119468
+333,"Game, The (1997)",01-Jan-1997,tt0119174
+334,U Turn (1997),01-Jan-1997,tt0120399
+335,How to Be a Player (1997),01-Jan-1997,tt0119326
+336,Playing God (1997),01-Jan-1997,tt0119906
+337,"House of Yes, The (1997)",01-Jan-1997,tt0119324
+338,Bean (1997),01-Jan-1997,tt0118689
+339,Mad City (1997),01-Jan-1997,tt0119592
+340,Boogie Nights (1997),01-Jan-1997,tt0118749
+341,Critical Care (1997),01-Jan-1997,tt0118901
+342,"Man Who Knew Too Little, The (1997)",01-Jan-1997,tt0120483
+343,Alien: Resurrection (1997),01-Jan-1997,tt0118583
+344,"Apostle, The (1997)",18-Dec-1997,tt0118632
+345,Deconstructing Harry (1997),01-Jan-1997,tt0118954
+346,Jackie Brown (1997),01-Jan-1997,tt0119396
+347,Wag the Dog (1997),09-Jan-1998,tt0120885
+348,Desperate Measures (1998),30-Jan-1998,tt0118966
+349,Hard Rain (1998),16-Jan-1998,tt0120696
+350,Fallen (1998),16-Jan-1998,tt0119099
+351,"Prophecy II, The (1998)",16-Jan-1998,tt0118643
+352,Spice World (1997),01-Jan-1997,tt0120185
+353,Deep Rising (1998),30-Jan-1998,tt0118956
+354,"Wedding Singer, The (1998)",13-Feb-1998,tt0120888
+355,Sphere (1998),13-Feb-1998,tt0120184
+356,"Client, The (1994)",01-Jan-1994,tt0109446
+357,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,tt0073486
+358,Spawn (1997),01-Aug-1997,tt0120177
+359,"Assignment, The (1997)",01-Jan-1997,tt0118647
+360,Wonderland (1997),01-Jan-1997,tt0120529
+361,Incognito (1997),01-Jan-1997,tt0119365
+362,Blues Brothers 2000 (1998),06-Feb-1998,tt0118747
+363,Sudden Death (1995),01-Jan-1995,tt0114576
+364,Ace Ventura: When Nature Calls (1995),01-Jan-1995,tt0112281
+365,Powder (1995),01-Jan-1995,tt0114168
+366,Dangerous Minds (1995),01-Jan-1995,tt0112792
+367,Clueless (1995),01-Jan-1995,tt0112697
+368,Bio-Dome (1996),01-Jan-1996,tt0115683
+369,Black Sheep (1996),02-Feb-1996,tt0115697
+370,Mary Reilly (1996),23-Feb-1996,tt0117002
+371,"Bridges of Madison County, The (1995)",09-Feb-1996,tt0112579
+372,Jeffrey (1995),01-Jan-1995,tt0113464
+373,Judge Dredd (1995),01-Jan-1995,tt0113492
+374,Mighty Morphin Power Rangers: The Movie (1995),01-Jan-1995,tt0113820
+375,Showgirls (1995),01-Jan-1995,tt0114436
+376,Houseguest (1994),01-Jan-1994,tt0110066
+377,Heavyweights (1994),01-Jan-1994,tt0110006
+378,Miracle on 34th Street (1994),01-Jan-1994,tt0110527
+379,Tales From the Crypt Presents: Demon Knight (1995),01-Jan-1995,tt0114608
+380,Star Trek: Generations (1994),01-Jan-1994,tt0111280
+381,Muriel's Wedding (1994),01-Jan-1994,tt0110598
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)",01-Jan-1994,tt0109045
+383,"Flintstones, The (1994)",01-Jan-1994,tt0109813
+384,Naked Gun 33 1/3: The Final Insult (1994),01-Jan-1994,tt0110622
+385,True Lies (1994),01-Jan-1994,tt0111503
+386,Addams Family Values (1993),01-Jan-1993,tt0106220
+387,"Age of Innocence, The (1993)",01-Jan-1993,tt0106226
+388,Beverly Hills Cop III (1994),01-Jan-1994,tt0109254
+389,Black Beauty (1994),01-Jan-1994,tt0109279
+390,Fear of a Black Hat (1993),01-Jan-1993,tt0106880
+391,Last Action Hero (1993),01-Jan-1993,tt0107362
+392,"Man Without a Face, The (1993)",01-Jan-1993,tt0107501
+393,Mrs. Doubtfire (1993),01-Jan-1993,tt0107614
+394,Radioland Murders (1994),01-Jan-1994,tt0110939
+395,Robin Hood: Men in Tights (1993),01-Jan-1993,tt0107977
+396,Serial Mom (1994),01-Jan-1994,tt0111127
+397,Striking Distance (1993),01-Jan-1993,tt0108238
+398,Super Mario Bros. (1993),01-Jan-1993,tt0108255
+399,"Three Musketeers, The (1993)",01-Jan-1993,tt0108333
+400,"Little Rascals, The (1994)",01-Jan-1994,tt0110366
+401,"Brady Bunch Movie, The (1995)",01-Jan-1995,tt0112572
+402,Ghost (1990),01-Jan-1990,tt0099653
+403,Batman (1989),01-Jan-1989,tt0096895
+404,Pinocchio (1940),01-Jan-1940,tt0032910
+405,Mission: Impossible (1996),22-May-1996,tt0117060
+406,Thinner (1996),25-Oct-1996,tt0117894
+407,Spy Hard (1996),24-May-1996,tt0117723
+408,"Close Shave, A (1995)",28-Apr-1996,tt0112691
+409,Jack (1996),07-Aug-1996,tt0116669
+410,Kingpin (1996),12-Jul-1996,tt0116778
+411,"Nutty Professor, The (1996)",28-Jun-1996,tt0117218
+412,"Very Brady Sequel, A (1996)",23-Aug-1996,tt0118073
+413,Tales from the Crypt Presents: Bordello of Blood (1996),19-Jul-1996,tt0117826
+414,My Favorite Year (1982),01-Jan-1982,tt0084370
+415,"Apple Dumpling Gang, The (1975)",01-Jan-1975,tt0072653
+416,Old Yeller (1957),01-Jan-1957,tt0050798
+417,"Parent Trap, The (1961)",01-Jan-1961,tt0055277
+418,Cinderella (1950),01-Jan-1950,tt0042332
+419,Mary Poppins (1964),01-Jan-1964,tt0058331
+420,Alice in Wonderland (1951),01-Jan-1951,tt0043274
+421,William Shakespeare's Romeo and Juliet (1996),25-Oct-1996,tt0117509
+422,Aladdin and the King of Thieves (1996),01-Jan-1996,tt0115491
+423,E.T. the Extra-Terrestrial (1982),01-Jan-1982,tt0083866
+424,Children of the Corn: The Gathering (1996),01-Jan-1996,tt0115885
+425,Bob Roberts (1992),01-Jan-1992,tt0103850
+426,"Transformers: The Movie, The (1986)",01-Jan-1986,tt0092106
+427,To Kill a Mockingbird (1962),01-Jan-1962,tt0056592
+428,Harold and Maude (1971),01-Jan-1971,tt0067185
+429,"Day the Earth Stood Still, The (1951)",01-Jan-1951,tt0970416
+430,Duck Soup (1933),01-Jan-1933,tt0023969
+431,Highlander (1986),01-Jan-1986,tt0091203
+432,Fantasia (1940),01-Jan-1940,tt0032455
+433,Heathers (1989),01-Jan-1989,tt0097493
+434,Forbidden Planet (1956),01-Jan-1956,tt0049223
+435,Butch Cassidy and the Sundance Kid (1969),01-Jan-1969,tt0064115
+436,"American Werewolf in London, An (1981)",01-Jan-1981,tt0082010
+437,Amityville 1992: It's About Time (1992),01-Jan-1992,tt0103678
+438,Amityville 3-D (1983),01-Jan-1983,tt0085159
+439,Amityville: A New Generation (1993),01-Jan-1993,tt0106262
+440,Amityville II: The Possession (1982),01-Jan-1982,tt0083550
+441,"Amityville Horror, The (1979)",01-Jan-1979,tt0078767
+442,"Amityville Curse, The (1990)",01-Jan-1990,tt0099030
+443,"Birds, The (1963)",01-Jan-1963,tt0056869
+444,"Blob, The (1958)",01-Jan-1958,tt0051418
+445,"Body Snatcher, The (1945)",01-Jan-1945,tt0037549
+446,Burnt Offerings (1976),01-Jan-1976,tt0074258
+447,Carrie (1976),01-Jan-1976,tt0074285
+448,"Omen, The (1976)",01-Jan-1976,tt0075005
+449,Star Trek: The Motion Picture (1979),01-Jan-1979,tt0079945
+450,Star Trek V: The Final Frontier (1989),01-Jan-1989,tt0098382
+451,Grease (1978),01-Jan-1978,tt0077631
+452,Jaws 2 (1978),01-Jan-1978,tt0077766
+453,Jaws 3-D (1983),01-Jan-1983,tt0085750
+454,Bastard Out of Carolina (1996),15-Dec-1996,tt0115633
+455,Jackie Chan's First Strike (1996),10-Jan-1997,tt0116704
+456,Beverly Hills Ninja (1997),17-Jan-1997,tt0118708
+457,Free Willy 3: The Rescue (1997),08-Aug-1997,tt0119152
+458,Nixon (1995),01-Jan-1995,tt0113987
+459,"Cry, the Beloved Country (1995)",01-Jan-1995,tt0112749
+460,"Crossing Guard, The (1995)",01-Jan-1995,tt0112744
+461,Smoke (1995),01-Jan-1995,tt0114478
+462,Like Water For Chocolate (Como agua para chocolate) (1992),01-Jan-1992,tt0103994
+463,"Secret of Roan Inish, The (1994)",01-Jan-1994,tt0111112
+464,Vanya on 42nd Street (1994),01-Jan-1994,tt0111590
+465,"Jungle Book, The (1994)",01-Jan-1994,tt0110213
+466,Red Rock West (1992),01-Jan-1992,tt0105226
+467,"Bronx Tale, A (1993)",01-Jan-1993,tt0106489
+468,Rudy (1993),01-Jan-1993,tt0108002
+469,Short Cuts (1993),01-Jan-1993,tt0108122
+470,Tombstone (1993),01-Jan-1993,tt0108358
+471,Courage Under Fire (1996),08-Mar-1996,tt0115956
+472,Dragonheart (1996),31-May-1996,tt0116136
+473,James and the Giant Peach (1996),12-Apr-1996,tt0116683
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),01-Jan-1963,tt0057012
+475,Trainspotting (1996),19-Jul-1996,tt0117951
+476,"First Wives Club, The (1996)",14-Sep-1996,tt0116313
+477,Matilda (1996),02-Aug-1996,tt0117008
+478,"Philadelphia Story, The (1940)",01-Jan-1940,tt0032904
+479,Vertigo (1958),01-Jan-1958,tt0052357
+480,North by Northwest (1959),01-Jan-1959,tt0053125
+481,"Apartment, The (1960)",01-Jan-1960,tt0053604
+482,Some Like It Hot (1959),01-Jan-1959,tt0053291
+483,Casablanca (1942),01-Jan-1942,tt0034583
+484,"Maltese Falcon, The (1941)",01-Jan-1941,tt0033870
+485,My Fair Lady (1964),01-Jan-1964,tt0058385
+486,Sabrina (1954),01-Jan-1954,tt0047437
+487,Roman Holiday (1953),01-Jan-1953,tt0046250
+488,Sunset Blvd. (1950),01-Jan-1950,tt0043014
+489,Notorious (1946),01-Jan-1946,tt0038787
+490,To Catch a Thief (1955),01-Jan-1955,tt0048728
+491,"Adventures of Robin Hood, The (1938)",01-Jan-1938,tt0029843
+492,East of Eden (1955),01-Jan-1955,tt0048028
+493,"Thin Man, The (1934)",01-Jan-1934,tt0025878
+494,His Girl Friday (1940),01-Jan-1940,tt0032599
+495,Around the World in 80 Days (1956),01-Jan-1956,tt0048960
+496,It's a Wonderful Life (1946),01-Jan-1946,tt0038650
+497,Bringing Up Baby (1938),01-Jan-1938,tt0029947
+498,"African Queen, The (1951)",01-Jan-1951,tt0043265
+499,Cat on a Hot Tin Roof (1958),01-Jan-1958,tt0051459
+500,Fly Away Home (1996),13-Sep-1996,tt0116329
+501,Dumbo (1941),01-Jan-1941,tt0033563
+502,Bananas (1971),01-Jan-1971,tt0066808
+503,"Candidate, The (1972)",01-Jan-1972,tt0068334
+504,Bonnie and Clyde (1967),01-Jan-1967,tt0061418
+505,Dial M for Murder (1954),01-Jan-1954,tt0046912
+506,Rebel Without a Cause (1955),01-Jan-1955,tt0048545
+507,"Streetcar Named Desire, A (1951)",01-Jan-1951,tt0044081
+508,"People vs. Larry Flynt, The (1996)",27-Dec-1996,tt0117318
+509,My Left Foot (1989),01-Jan-1989,tt0097937
+510,"Magnificent Seven, The (1954)",01-Jan-1954,tt2404435
+511,Lawrence of Arabia (1962),01-Jan-1962,tt0056172
+512,Wings of Desire (1987),01-Jan-1987,tt0093191
+513,"Third Man, The (1949)",01-Jan-1949,tt0041959
+514,Annie Hall (1977),01-Jan-1977,tt0075686
+515,"Boot, Das (1981)",04-Apr-1997,tt0082096
+516,Local Hero (1983),01-Jan-1983,tt0085859
+517,Manhattan (1979),01-Jan-1979,tt0079522
+518,Miller's Crossing (1990),01-Jan-1990,tt0100150
+519,"Treasure of the Sierra Madre, The (1948)",01-Jan-1948,tt0040897
+520,"Great Escape, The (1963)",01-Jan-1963,tt0057115
+521,"Deer Hunter, The (1978)",01-Jan-1978,tt0077416
+522,Down by Law (1986),01-Jan-1986,tt0090967
+523,Cool Hand Luke (1967),01-Jan-1967,tt0061512
+524,"Great Dictator, The (1940)",01-Jan-1940,tt0032553
+525,"Big Sleep, The (1946)",01-Jan-1946,tt0038355
+526,Ben-Hur (1959),01-Jan-1959,tt0052618
+527,Gandhi (1982),01-Jan-1982,tt0083987
+528,"Killing Fields, The (1984)",01-Jan-1984,tt1217261
+529,My Life as a Dog (Mitt liv som hund) (1985),01-Jan-1985,tt0089606
+530,"Man Who Would Be King, The (1975)",01-Jan-1975,tt0073341
+531,Shine (1996),22-Nov-1996,tt0117631
+532,Kama Sutra: A Tale of Love (1996),07-Mar-1997,tt0116743
+533,"Daytrippers, The (1996)",21-Mar-1997,tt0116041
+534,Traveller (1997),18-Apr-1997,tt0120366
+535,Addicted to Love (1997),23-May-1997,tt0118556
+536,Ponette (1996),23-May-1997,tt0117359
+537,My Own Private Idaho (1991),01-Jan-1991,tt0102494
+538,Anastasia (1997),01-Jan-1997,tt0118617
+539,Mouse Hunt (1997),01-Jan-1997,tt0119715
+540,Money Train (1995),01-Jan-1995,tt0113845
+541,Mortal Kombat (1995),01-Jan-1995,tt0113855
+542,Pocahontas (1995),01-Jan-1995,tt0114148
+543,"Miserables, Les (1995)",01-Jan-1995,tt0113828
+544,Things to Do in Denver when You're Dead (1995),02-Feb-1996,tt0114660
+545,Vampire in Brooklyn (1995),01-Jan-1995,tt0114825
+546,Broken Arrow (1996),09-Feb-1996,tt0115759
+547,"Young Poisoner's Handbook, The (1995)",23-Feb-1996,tt0115033
+548,"NeverEnding Story III, The (1994)",02-Feb-1996,tt0110647
+549,Rob Roy (1995),01-Jan-1995,tt0114287
+550,Die Hard: With a Vengeance (1995),01-Jan-1995,tt0112864
+551,Lord of Illusions (1995),01-Jan-1995,tt0113690
+552,Species (1995),01-Jan-1995,tt0114508
+553,"Walk in the Clouds, A (1995)",01-Jan-1995,tt0114887
+554,Waterworld (1995),01-Jan-1995,tt0114898
+555,White Man's Burden (1995),01-Jan-1995,tt0114928
+556,Wild Bill (1995),01-Jan-1995,tt0114938
+557,Farinelli: il castrato (1994),01-Jan-1994,tt0109771
+558,Heavenly Creatures (1994),01-Jan-1994,tt0110005
+559,Interview with the Vampire (1994),01-Jan-1994,tt0110148
+560,"Kid in King Arthur's Court, A (1995)",01-Jan-1995,tt0113538
+561,Mary Shelley's Frankenstein (1994),01-Jan-1994,tt0109836
+562,"Quick and the Dead, The (1995)",01-Jan-1995,tt0114214
+563,Stephen King's The Langoliers (1995),01-Jan-1995,tt0112040
+564,Tales from the Hood (1995),01-Jan-1995,tt0114609
+565,Village of the Damned (1995),01-Jan-1995,tt0114852
+566,Clear and Present Danger (1994),01-Jan-1994,tt0109444
+567,Wes Craven's New Nightmare (1994),01-Jan-1994,tt0111686
+568,Speed (1994),01-Jan-1994,tt0111257
+569,Wolf (1994),01-Jan-1994,tt0111742
+570,Wyatt Earp (1994),01-Jan-1994,tt0111756
+571,Another Stakeout (1993),01-Jan-1993,tt0106292
+572,Blown Away (1994),01-Jan-1994,tt0109303
+573,Body Snatchers (1993),01-Jan-1993,tt0106452
+574,Boxing Helena (1993),01-Jan-1993,tt0106471
+575,City Slickers II: The Legend of Curly's Gold (1994),01-Jan-1994,tt0109439
+576,Cliffhanger (1993),01-Jan-1993,tt0106582
+577,Coneheads (1993),01-Jan-1993,tt0106598
+578,Demolition Man (1993),01-Jan-1993,tt0106697
+579,Fatal Instinct (1993),01-Jan-1993,tt0106873
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",01-Jan-1995,tt0112966
+581,Kalifornia (1993),01-Jan-1993,tt0107302
+582,"Piano, The (1993)",01-Jan-1993,tt0107822
+583,Romeo Is Bleeding (1993),01-Jan-1993,tt0107983
+584,"Secret Garden, The (1993)",01-Jan-1993,tt0108071
+585,Son in Law (1993),01-Jan-1993,tt0108186
+586,Terminal Velocity (1994),01-Jan-1994,tt0111400
+587,"Hour of the Pig, The (1993)",01-Jan-1993,tt0107146
+588,Beauty and the Beast (1991),01-Jan-1991,tt0101414
+589,"Wild Bunch, The (1969)",01-Jan-1969,tt0065214
+590,Hellraiser: Bloodline (1996),08-Mar-1996,tt0116514
+591,Primal Fear (1996),30-Mar-1996,tt0117381
+592,True Crime (1995),01-Jan-1995,tt0114736
+593,Stalingrad (1993),01-Jan-1993,tt0108211
+594,Heavy (1995),05-Jun-1996,tt0113280
+595,"Fan, The (1996)",16-Aug-1996,tt0116277
+596,"Hunchback of Notre Dame, The (1996)",21-Jun-1996,tt0116583
+597,Eraser (1996),21-Jun-1996,tt0116213
+598,"Big Squeeze, The (1996)",06-Sep-1996,tt0115680
+599,Police Story 4: Project S (Chao ji ji hua) (1993),16-Aug-1996,tt0106544
+600,Daniel Defoe's Robinson Crusoe (1996),01-Jan-1996,tt0117496
+601,For Whom the Bell Tolls (1943),01-Jan-1943,tt0035896
+602,"American in Paris, An (1951)",01-Jan-1951,tt0043278
+603,Rear Window (1954),01-Jan-1954,tt0047396
+604,It Happened One Night (1934),01-Jan-1934,tt0025316
+605,Meet Me in St. Louis (1944),01-Jan-1944,tt0037059
+606,All About Eve (1950),01-Jan-1950,tt0042192
+607,Rebecca (1940),01-Jan-1940,tt0032976
+608,Spellbound (1945),01-Jan-1945,tt0038109
+609,Father of the Bride (1950),01-Jan-1950,tt0042451
+610,Gigi (1958),01-Jan-1958,tt0051658
+611,Laura (1944),01-Jan-1944,tt0037008
+612,Lost Horizon (1937),01-Jan-1937,tt0029162
+613,My Man Godfrey (1936),01-Jan-1936,tt0028010
+614,Giant (1956),01-Jan-1956,tt0049261
+615,"39 Steps, The (1935)",01-Jan-1935,tt0026029
+616,Night of the Living Dead (1968),01-Jan-1968,tt0063350
+617,"Blue Angel, The (Blaue Engel, Der) (1930)",01-Jan-1930,tt0020697
+618,Picnic (1955),01-Jan-1955,tt0048491
+619,Extreme Measures (1996),27-Sep-1996,tt0116259
+620,"Chamber, The (1996)",11-Oct-1996,tt0115862
+621,"Davy Crockett, King of the Wild Frontier (1955)",01-Jan-1955,tt0047977
+622,Swiss Family Robinson (1960),01-Jan-1960,tt0054357
+623,Angels in the Outfield (1994),01-Jan-1994,tt0109127
+624,"Three Caballeros, The (1945)",01-Jan-1945,tt0038166
+625,"Sword in the Stone, The (1963)",01-Jan-1963,tt0057546
+626,So Dear to My Heart (1949),01-Jan-1949,tt0041890
+627,Robin Hood: Prince of Thieves (1991),01-Jan-1991,tt0102798
+628,Sleepers (1996),18-Oct-1996,tt0117665
+629,Victor/Victoria (1982),01-Jan-1982,tt0084865
+630,"Great Race, The (1965)",01-Jan-1965,tt0059243
+631,"Crying Game, The (1992)",01-Jan-1992,tt0104036
+632,Sophie's Choice (1982),01-Jan-1982,tt0084707
+633,"Christmas Carol, A (1938)",01-Jan-1938,tt1067106
+634,Microcosmos: Le peuple de l'herbe (1996),11-Oct-1996,tt0117040
+635,"Fog, The (1980)",01-Jan-1980,tt0080749
+636,Escape from New York (1981),01-Jan-1981,tt0082340
+637,"Howling, The (1981)",01-Jan-1981,tt0082533
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",01-Jan-1982,tt0084589
+639,"Tin Drum, The (Blechtrommel, Die) (1979)",01-Jan-1979,tt0078875
+640,"Cook the Thief His Wife & Her Lover, The (1989)",01-Jan-1989,tt0097108
+641,Paths of Glory (1957),01-Jan-1957,tt0050825
+642,"Grifters, The (1990)",01-Jan-1990,tt0099703
+643,The Innocent (1994),01-Jan-1994,tt0110108
+644,"Thin Blue Line, The (1988)",01-Jan-1988,tt0096257
+645,Paris Is Burning (1990),01-Jan-1990,tt0100332
+646,Once Upon a Time in the West (1969),01-Jan-1969,tt0064116
+647,Ran (1985),01-Jan-1985,tt0089881
+648,"Quiet Man, The (1952)",01-Jan-1952,tt0045061
+649,Once Upon a Time in America (1984),01-Jan-1984,tt0087843
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",01-Jan-1957,tt0050976
+651,Glory (1989),01-Jan-1989,tt0097441
+652,Rosencrantz and Guildenstern Are Dead (1990),01-Jan-1990,tt0100519
+653,Touch of Evil (1958),01-Jan-1958,tt0052311
+654,Chinatown (1974),01-Jan-1974,tt0071315
+655,Stand by Me (1986),01-Jan-1986,tt0092005
+656,M (1931),01-Jan-1931,tt0022100
+657,"Manchurian Candidate, The (1962)",01-Jan-1962,tt0368008
+658,Pump Up the Volume (1990),01-Jan-1990,tt0100436
+659,Arsenic and Old Lace (1944),01-Jan-1944,tt0036613
+660,Fried Green Tomatoes (1991),01-Jan-1991,tt0101921
+661,High Noon (1952),01-Jan-1952,tt0044706
+662,Somewhere in Time (1980),01-Jan-1980,tt0081534
+663,Being There (1979),01-Jan-1979,tt0078841
+664,"Paris, Texas (1984)",01-Jan-1984,tt0087884
+665,Alien 3 (1992),01-Jan-1992,tt0103644
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),01-Jan-1974,tt0071233
+667,Audrey Rose (1977),01-Jan-1977,tt0075704
+668,Blood Beach (1981),01-Jan-1981,tt0082818
+669,Body Parts (1991),01-Jan-1991,tt0101492
+670,Body Snatchers (1993),01-Jan-1993,tt0106452
+671,Bride of Frankenstein (1935),01-Jan-1935,tt0026138
+672,Candyman (1992),01-Jan-1992,tt0103919
+673,Cape Fear (1962),01-Jan-1962,tt0055824
+674,Cat People (1982),01-Jan-1982,tt0083722
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",01-Jan-1922,tt0013442
+676,"Crucible, The (1996)",27-Nov-1996,tt0115988
+677,Fire on the Mountain (1996),24-Jan-1997,tt0116310
+678,Volcano (1997),25-Apr-1997,tt0120461
+679,Conan the Barbarian (1981),01-Jan-1981,tt0816462
+680,Kull the Conqueror (1997),29-Aug-1997,tt0119484
+681,Wishmaster (1997),01-Jan-1997,tt0120524
+682,I Know What You Did Last Summer (1997),17-Oct-1997,tt0119345
+683,Rocket Man (1997),01-Jan-1997,tt0120029
+684,In the Line of Fire (1993),01-Jan-1993,tt0107206
+685,Executive Decision (1996),09-Mar-1996,tt0116253
+686,"Perfect World, A (1993)",01-Jan-1993,tt0107808
+687,McHale's Navy (1997),18-Apr-1997,tt0119640
+688,Leave It to Beaver (1997),22-Aug-1997,tt0119509
+689,"Jackal, The (1997)",01-Jan-1997,tt0119395
+690,Seven Years in Tibet (1997),01-Jan-1997,tt0120102
+691,Dark City (1998),09-Jan-1998,tt0118929
+692,"American President, The (1995)",01-Jan-1995,tt0112346
+693,Casino (1995),01-Jan-1995,tt0112641
+694,Persuasion (1995),25-Sep-1995,tt0113025
+695,Kicking and Screaming (1995),01-Jan-1995,tt0113537
+696,City Hall (1996),16-Feb-1996,tt0115907
+697,"Basketball Diaries, The (1995)",01-Jan-1995,tt0112461
+698,"Browning Version, The (1994)",01-Jan-1994,tt0109340
+699,Little Women (1994),01-Jan-1994,tt0110367
+700,Miami Rhapsody (1995),01-Jan-1995,tt0113808
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",01-Jan-1993,tt0107472
+702,Barcelona (1994),01-Jan-1994,tt0109219
+703,Widows' Peak (1994),01-Jan-1994,tt0111712
+704,"House of the Spirits, The (1993)",01-Jan-1993,tt0107151
+705,Singin' in the Rain (1952),01-Jan-1952,tt0045152
+706,Bad Moon (1996),01-Nov-1996,tt0115610
+707,Enchanted April (1991),01-Jan-1991,tt0101811
+708,"Sex, Lies, and Videotape (1989)",01-Jan-1989,tt0098724
+709,Strictly Ballroom (1992),01-Jan-1992,tt0105488
+710,Better Off Dead... (1985),01-Jan-1985,tt0088794
+711,"Substance of Fire, The (1996)",06-Dec-1996,tt0117773
+712,Tin Men (1987),01-Jan-1987,tt0094155
+713,Othello (1995),18-Dec-1995,tt0114057
+714,Carrington (1995),01-Jan-1995,tt0112637
+715,To Die For (1995),01-Jan-1995,tt0114681
+716,Home for the Holidays (1995),01-Jan-1995,tt0113321
+717,"Juror, The (1996)",01-Jan-1996,tt0116731
+718,In the Bleak Midwinter (1995),23-Feb-1996,tt0113403
+719,Canadian Bacon (1994),01-Jan-1994,tt0109370
+720,First Knight (1995),01-Jan-1995,tt0113071
+721,Mallrats (1995),01-Jan-1995,tt0113749
+722,Nine Months (1995),01-Jan-1995,tt0113986
+723,Boys on the Side (1995),01-Jan-1995,tt0112571
+724,Circle of Friends (1995),01-Jan-1995,tt0112679
+725,Exit to Eden (1994),01-Jan-1994,tt0109758
+726,Fluke (1995),01-Jan-1995,tt0113089
+727,Immortal Beloved (1994),01-Jan-1994,tt0110116
+728,Junior (1994),01-Jan-1994,tt0110216
+729,Nell (1994),01-Jan-1994,tt0110638
+730,"Queen Margot (Reine Margot, La) (1994)",01-Jan-1996,tt0110963
+731,"Corrina, Corrina (1994)",01-Jan-1994,tt0109484
+732,Dave (1993),01-Jan-1993,tt0106673
+733,Go Fish (1994),01-Jan-1994,tt0109913
+734,Made in America (1993),01-Jan-1993,tt0107478
+735,Philadelphia (1993),01-Jan-1993,tt0107818
+736,Shadowlands (1993),01-Jan-1993,tt0108101
+737,Sirens (1994),01-Jan-1994,tt0111201
+738,Threesome (1994),01-Jan-1994,tt0111418
+739,Pretty Woman (1990),01-Jan-1990,tt0100405
+740,Jane Eyre (1996),05-Apr-1996,tt0116684
+741,"Last Supper, The (1995)",05-Apr-1996,tt2000418
+742,Ransom (1996),08-Nov-1996,tt0117438
+743,"Crow: City of Angels, The (1996)",30-Aug-1996,tt0115986
+744,Michael Collins (1996),11-Oct-1996,tt0117039
+745,"Ruling Class, The (1972)",01-Jan-1972,tt0069198
+746,Real Genius (1985),01-Jan-1985,tt0089886
+747,Benny & Joon (1993),01-Jan-1993,tt0106387
+748,"Saint, The (1997)",14-Mar-1997,tt0120053
+749,"MatchMaker, The (1997)",01-Jan-1997,tt0119632
+750,Amistad (1997),18-Dec-1997,tt0118607
+751,Tomorrow Never Dies (1997),01-Jan-1997,tt0120347
+752,"Replacement Killers, The (1998)",06-Feb-1998,tt0120008
+753,Burnt By the Sun (1994),01-Jan-1994,tt0111579
+754,Red Corner (1997),01-Jan-1997,tt0119994
+755,Jumanji (1995),01-Jan-1995,tt0113497
+756,Father of the Bride Part II (1995),01-Jan-1995,tt0113041
+757,Across the Sea of Time (1995),01-Jan-1995,tt0112286
+758,Lawnmower Man 2: Beyond Cyberspace (1996),01-Jan-1996,tt0116839
+759,Fair Game (1995),01-Jan-1995,tt0113010
+760,Screamers (1995),01-Jan-1995,tt0114367
+761,Nick of Time (1995),01-Jan-1995,tt0113972
+762,Beautiful Girls (1996),09-Feb-1996,tt0115639
+763,Happy Gilmore (1996),16-Feb-1996,tt0116483
+764,If Lucy Fell (1996),08-Mar-1996,tt0116606
+765,Boomerang (1992),01-Jan-1992,tt0103859
+766,Man of the Year (1995),01-Mar-1996,tt0113756
+767,"Addiction, The (1995)",01-Jan-1995,tt6205964
+768,Casper (1995),01-Jan-1995,tt0112642
+769,Congo (1995),01-Jan-1995,tt0112715
+770,Devil in a Blue Dress (1995),01-Jan-1995,tt0112857
+771,Johnny Mnemonic (1995),01-Jan-1995,tt0113481
+772,Kids (1995),01-Jan-1995,tt0113540
+773,Mute Witness (1994),01-Jan-1994,tt0110604
+774,"Prophecy, The (1995)",01-Jan-1995,tt0114194
+775,Something to Talk About (1995),01-Jan-1995,tt0114496
+776,Three Wishes (1995),01-Jan-1995,tt0114663
+777,Castle Freak (1995),01-Jan-1995,tt0112643
+778,Don Juan DeMarco (1995),01-Jan-1995,tt0112883
+779,Drop Zone (1994),01-Jan-1994,tt0109676
+780,Dumb & Dumber (1994),01-Jan-1994,tt0109686
+781,French Kiss (1995),01-Jan-1995,tt0113117
+782,Little Odessa (1994),01-Jan-1994,tt0110365
+783,Milk Money (1994),01-Jan-1994,tt0110516
+784,Beyond Bedlam (1993),01-Jan-1993,tt0106402
+785,Only You (1994),01-Jan-1994,tt0110737
+786,"Perez Family, The (1995)",01-Jan-1995,tt0114113
+787,Roommates (1995),01-Jan-1995,tt0114296
+788,Relative Fear (1994),01-Jan-1994,tt0110965
+789,Swimming with Sharks (1995),01-Jan-1995,tt0114594
+790,Tommy Boy (1995),01-Jan-1995,tt0114694
+791,"Baby-Sitters Club, The (1995)",01-Jan-1995,tt0112435
+792,Bullets Over Broadway (1994),01-Jan-1994,tt0109348
+793,Crooklyn (1994),01-Jan-1994,tt0109504
+794,It Could Happen to You (1994),01-Jan-1994,tt0110167
+795,Richie Rich (1994),01-Jan-1994,tt0110989
+796,Speechless (1994),01-Jan-1994,tt0111256
+797,Timecop (1994),01-Jan-1994,tt0111438
+798,Bad Company (1995),01-Jan-1995,tt0112443
+799,Boys Life (1995),01-Jan-1995,tt0112570
+800,In the Mouth of Madness (1995),01-Jan-1995,tt0113409
+801,"Air Up There, The (1994)",01-Jan-1994,tt0109067
+802,Hard Target (1993),01-Jan-1993,tt0107076
+803,Heaven & Earth (1993),01-Jan-1993,tt0107096
+804,Jimmy Hollywood (1994),01-Jan-1994,tt0110197
+805,Manhattan Murder Mystery (1993),01-Jan-1993,tt0107507
+806,Menace II Society (1993),01-Jan-1993,tt0107554
+807,Poetic Justice (1993),01-Jan-1993,tt0107840
+808,"Program, The (1993)",01-Jan-1993,tt0107889
+809,Rising Sun (1993),01-Jan-1993,tt0107969
+810,"Shadow, The (1994)",01-Jan-1994,tt0111143
+811,Thirty-Two Short Films About Glenn Gould (1993),01-Jan-1993,tt0108328
+812,Andre (1994),01-Jan-1994,tt0109120
+813,"Celluloid Closet, The (1995)",15-Mar-1996,tt0112651
+814,"Great Day in Harlem, A (1994)",01-Jan-1994,tt0109934
+815,One Fine Day (1996),30-Nov-1996,tt0117247
+816,Candyman: Farewell to the Flesh (1995),01-Jan-1995,tt0112625
+817,Frisk (1995),29-Mar-1996,tt0113122
+818,Girl 6 (1996),22-Mar-1996,tt0116414
+819,Eddie (1996),31-May-1996,tt0116168
+820,Space Jam (1996),15-Nov-1996,tt0117705
+821,Mrs. Winterbourne (1996),19-Apr-1996,tt0117104
+822,Faces (1968),01-Jan-1968,tt0062952
+823,Mulholland Falls (1996),26-Apr-1996,tt0117107
+824,"Great White Hype, The (1996)",03-May-1996,tt0116448
+825,"Arrival, The (1996)",31-May-1996,tt0115571
+826,"Phantom, The (1996)",07-Jun-1996,tt0117331
+827,Daylight (1996),06-Dec-1996,tt0116040
+828,Alaska (1996),21-Aug-1996,tt0115493
+829,Fled (1996),19-Jul-1996,tt0116320
+830,Power 98 (1995),17-May-1996,tt0114170
+831,Escape from L.A. (1996),09-Aug-1996,tt0116225
+832,Bogus (1996),06-Sep-1996,tt0115725
+833,Bulletproof (1996),06-Sep-1996,tt0115783
+834,Halloween: The Curse of Michael Myers (1995),01-Jan-1995,tt0113253
+835,"Gay Divorcee, The (1934)",01-Jan-1934,tt0025164
+836,Ninotchka (1939),01-Jan-1939,tt0031725
+837,Meet John Doe (1941),01-Jan-1941,tt0033891
+838,In the Line of Duty 2 (1987),30-Aug-1996,tt0091229
+839,Loch Ness (1995),01-Jan-1995,tt0113682
+840,Last Man Standing (1996),20-Sep-1996,tt0116830
+841,"Glimmer Man, The (1996)",04-Oct-1996,tt0116421
+842,Pollyanna (1960),01-Jan-1960,tt0054195
+843,"Shaggy Dog, The (1959)",01-Jan-1959,tt0053271
+844,Freeway (1996),23-Aug-1996,tt0116361
+845,That Thing You Do! (1996),28-Sep-1996,tt0117887
+846,To Gillian on Her 37th Birthday (1996),18-Oct-1996,tt0117924
+847,Looking for Richard (1996),11-Oct-1996,tt0116913
+848,"Murder, My Sweet (1944)",01-Jan-1944,tt0037101
+849,Days of Thunder (1990),01-Jan-1990,tt0099371
+850,"Perfect Candidate, A (1996)",27-Sep-1996,tt6971114
+851,Two or Three Things I Know About Her (1966),01-Jan-1966,tt0060304
+852,"Bloody Child, The (1996)",26-Oct-1996,tt0115715
+853,Braindead (1992),01-Jan-1992,tt0103873
+854,Bad Taste (1987),01-Jan-1987,tt0092610
+855,Diva (1981),01-Jan-1981,tt0082269
+856,Night on Earth (1991),01-Jan-1991,tt0102536
+857,Paris Was a Woman (1995),08-Nov-1996,tt0114093
+858,Amityville: Dollhouse (1996),01-Jan-1996,tt3107494
+859,April Fool's Day (1986),01-Jan-1986,tt0090655
+860,"Believers, The (1987)",01-Jan-1987,tt0092632
+861,Nosferatu a Venezia (1986),01-Jan-1986,tt0091651
+862,Jingle All the Way (1996),22-Nov-1996,tt0116705
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",08-Nov-1996,tt0065777
+864,My Fellow Americans (1996),20-Dec-1996,tt0117119
+865,"Ice Storm, The (1997)",01-Jan-1997,tt0119349
+866,Michael (1996),25-Dec-1996,tt0117038
+867,"Whole Wide World, The (1996)",25-Dec-1996,tt0118163
+868,Hearts and Minds (1996),10-Jan-1997,tt0071604
+869,Fools Rush In (1997),14-Feb-1997,tt0119141
+870,Touch (1997),14-Feb-1997,tt0120357
+871,Vegas Vacation (1997),14-Feb-1997,tt0120434
+872,Love Jones (1997),14-Mar-1997,tt0119572
+873,Picture Perfect (1997),01-Aug-1997,tt0119896
+874,Career Girls (1997),08-Aug-1997,tt0118818
+875,She's So Lovely (1997),22-Aug-1997,tt0120112
+876,Money Talks (1997),22-Aug-1997,tt0119695
+877,Excess Baggage (1997),01-Jan-1997,tt0119086
+878,That Darn Cat! (1997),14-Feb-1997,tt0120317
+879,"Peacemaker, The (1997)",01-Jan-1997,tt0119874
+880,Soul Food (1997),01-Jan-1997,tt0120169
+881,Money Talks (1997),22-Aug-1997,tt0119695
+882,Washington Square (1997),01-Jan-1997,tt0120481
+883,Telling Lies in America (1997),01-Jan-1997,tt0120303
+884,Year of the Horse (1997),01-Jan-1997,tt0120539
+885,Phantoms (1998),01-Jan-1998,tt0119891
+886,"Life Less Ordinary, A (1997)",01-Jan-1997,tt0119535
+887,Eve's Bayou (1997),01-Jan-1997,tt0119080
+888,One Night Stand (1997),01-Jan-1997,tt0119832
+889,"Tango Lesson, The (1997)",01-Jan-1997,tt0120275
+890,Mortal Kombat: Annihilation (1997),01-Jan-1997,tt0119707
+891,Bent (1997),18-Dec-1997,tt0118698
+892,Flubber (1997),01-Jan-1997,tt0119137
+893,For Richer or Poorer (1997),01-Jan-1997,tt0119142
+894,Home Alone 3 (1997),01-Jan-1997,tt0119303
+895,Scream 2 (1997),01-Jan-1997,tt0120082
+896,"Sweet Hereafter, The (1997)",01-Jan-1997,tt0120255
+897,Time Tracers (1995),01-Jan-1995,tt0128755
+898,"Postman, The (1997)",01-Jan-1997,tt0119925
+899,"Winter Guest, The (1997)",01-Jan-1997,tt0120521
+900,Kundun (1997),25-Dec-1997,tt0119485
+901,Mr. Magoo (1997),25-Dec-1997,tt0119718
+902,"Big Lebowski, The (1998)",26-Dec-1997,tt0118715
+903,Afterglow (1997),26-Dec-1997,tt0118566
+904,Ma vie en rose (My Life in Pink) (1997),26-Dec-1997,tt0119590
+905,Great Expectations (1998),01-Jan-1998,tt0119223
+906,Oscar & Lucinda (1997),31-Dec-1997,tt0119843
+907,Vermin (1998),01-Jan-1997,tt0120881
+908,Half Baked (1998),16-Jan-1998,tt0120693
+909,Dangerous Beauty (1998),23-Jan-1998,tt0118892
+910,Nil By Mouth (1997),06-Feb-1998,tt0119792
+911,Twilight (1998),30-Jan-1998,tt0119594
+912,U.S. Marshalls (1998),10-Mar-1998,tt0120873
+913,Love and Death on Long Island (1997),10-Mar-1998,tt0119574
+914,Wild Things (1998),14-Mar-1998,tt0120890
+915,Primary Colors (1998),20-Mar-1998,tt0119942
+916,Lost in Space (1998),27-Mar-1998,tt0120738
+917,Mercury Rising (1998),27-Mar-1998,tt0120749
+918,City of Angels (1998),03-Apr-1998,tt0120632
+919,"City of Lost Children, The (1995)",01-Jan-1995,tt0112682
+920,Two Bits (1995),01-Jan-1995,tt0114753
+921,Farewell My Concubine (1993),01-Jan-1993,tt0106332
+922,Dead Man (1995),10-May-1996,tt0112817
+923,Raise the Red Lantern (1991),01-Jan-1991,tt0101640
+924,White Squall (1996),01-Jan-1996,tt0118158
+925,Unforgettable (1996),23-Feb-1996,tt0118040
+926,Down Periscope (1996),01-Mar-1996,tt0116130
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",08-Mar-1996,tt0113083
+928,"Craft, The (1996)",26-Apr-1996,tt0115963
+929,Harriet the Spy (1996),03-Jul-1996,tt0116493
+930,Chain Reaction (1996),31-Jul-1996,tt0115857
+931,"Island of Dr. Moreau, The (1996)",23-Aug-1996,tt0116654
+932,First Kid (1996),30-Aug-1996,tt0116311
+933,"Funeral, The (1996)",25-Oct-1996,tt0116378
+934,"Preacher's Wife, The (1996)",13-Dec-1996,tt0117372
+935,Paradise Road (1997),18-Apr-1997,tt0119859
+936,Brassed Off (1996),13-Jun-1997,tt0115744
+937,"Thousand Acres, A (1997)",01-Jan-1997,tt0120323
+938,"Smile Like Yours, A (1997)",01-Jan-1997,tt0120151
+939,Murder in the First (1995),01-Jan-1995,tt0113870
+940,Airheads (1994),01-Jan-1994,tt0109068
+941,With Honors (1994),01-Jan-1994,tt0111732
+942,What's Love Got to Do with It (1993),01-Jan-1993,tt0108551
+943,Killing Zoe (1994),01-Jan-1994,tt0110265
+944,Renaissance Man (1994),01-Jan-1994,tt0110971
+945,Charade (1963),01-Jan-1963,tt0056923
+946,"Fox and the Hound, The (1981)",01-Jan-1981,tt0082406
+947,"Big Blue, The (Grand bleu, Le) (1988)",01-Jan-1988,tt0095250
+948,Booty Call (1997),28-Feb-1997,tt0118750
+949,How to Make an American Quilt (1995),01-Jan-1995,tt0113347
+950,Georgia (1995),01-Jan-1995,tt0113158
+951,"Indian in the Cupboard, The (1995)",01-Jan-1995,tt0113419
+952,Blue in the Face (1995),01-Jan-1995,tt0112541
+953,Unstrung Heroes (1995),01-Jan-1995,tt0114798
+954,Unzipped (1995),01-Jan-1995,tt0114805
+955,Before Sunrise (1995),01-Jan-1995,tt0112471
+956,Nobody's Fool (1994),01-Jan-1994,tt0110684
+957,Pushing Hands (1992),01-Jan-1992,tt0105652
+958,To Live (Huozhe) (1994),01-Jan-1994,tt0110081
+959,Dazed and Confused (1993),01-Jan-1993,tt0106677
+960,Naked (1993),01-Jan-1993,tt0107653
+961,Orlando (1993),01-Jan-1993,tt0107756
+962,Ruby in Paradise (1993),01-Jan-1993,tt0108000
+963,Some Folks Call It a Sling Blade (1993),01-Jan-1993,tt0108181
+964,"Month by the Lake, A (1995)",01-Jan-1995,tt0113849
+965,Funny Face (1957),01-Jan-1957,tt0050419
+966,"Affair to Remember, An (1957)",01-Jan-1957,tt0050105
+967,Little Lord Fauntleroy (1936),01-Jan-1936,tt0027893
+968,"Inspector General, The (1949)",01-Jan-1949,tt0041509
+969,Winnie the Pooh and the Blustery Day (1968),01-Jan-1968,tt0063819
+970,Hear My Song (1991),01-Jan-1991,tt0102014
+971,Mediterraneo (1991),01-Jan-1991,tt0102426
+972,Passion Fish (1992),01-Jan-1992,tt0105107
+973,Grateful Dead (1995),18-Oct-1996,tt0076104
+974,Eye for an Eye (1996),01-Jan-1996,tt0116260
+975,Fear (1996),12-Apr-1996,tt0116287
+976,Solo (1996),23-Aug-1996,tt0117688
+977,"Substitute, The (1996)",19-Apr-1996,tt0117774
+978,Heaven's Prisoners (1996),10-May-1996,tt0116508
+979,"Trigger Effect, The (1996)",30-Aug-1996,tt0117965
+980,Mother Night (1996),01-Nov-1996,tt0117093
+981,Dangerous Ground (1997),04-Sep-1996,tt0118927
+982,Maximum Risk (1996),13-Sep-1996,tt0117011
+983,"Rich Man's Wife, The (1996)",13-Sep-1996,tt0117473
+984,Shadow Conspiracy (1997),31-Jan-1997,tt0120107
+985,Blood & Wine (1997),15-Nov-1996,tt0115710
+986,Turbulence (1997),10-Jan-1997,tt0120390
+987,Underworld (1997),09-May-1997,tt0142316
+988,"Beautician and the Beast, The (1997)",07-Feb-1997,tt0118691
+989,Cats Don't Dance (1997),26-Mar-1997,tt0118829
+990,Anna Karenina (1997),04-Apr-1997,tt0118623
+991,Keys to Tulsa (1997),11-Apr-1997,tt0116762
+992,Head Above Water (1996),20-Jun-1997,tt0116502
+993,Hercules (1997),27-Jun-1997,tt0119282
+994,"Last Time I Committed Suicide, The (1997)",20-Jun-1997,tt0119502
+995,"Kiss Me, Guido (1997)",01-Jan-1997,tt0119465
+996,"Big Green, The (1995)",01-Jan-1995,tt0112499
+997,Stuart Saves His Family (1995),01-Jan-1995,tt0114571
+998,Cabin Boy (1994),01-Jan-1994,tt0109361
+999,Clean Slate (1994),01-Jan-1994,tt0109443
+1000,Lightning Jack (1994),01-Jan-1994,tt0110353
+1001,"Stupids, The (1996)",30-Aug-1996,tt0117768
+1002,"Pest, The (1997)",07-Feb-1997,tt0119887
+1003,That Darn Cat! (1997),14-Feb-1997,tt0120317
+1004,Geronimo: An American Legend (1993),01-Jan-1993,tt0107004
+1005,"Double vie de Veronique, La (Double Life of Veronique, The) (1991)",01-Jan-1991,tt0101765
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),01-Jan-1991,tt0101458
+1007,Waiting for Guffman (1996),31-Jan-1997,tt0118111
+1008,I Shot Andy Warhol (1996),01-May-1996,tt0116594
+1009,Stealing Beauty (1996),14-Jun-1996,tt0117737
+1010,Basquiat (1996),16-Aug-1996,tt0115632
+1011,2 Days in the Valley (1996),27-Sep-1996,tt0115438
+1012,Private Parts (1997),07-Mar-1997,tt0119951
+1013,Anaconda (1997),11-Apr-1997,tt0118615
+1014,Romy and Michele's High School Reunion (1997),25-Apr-1997,tt0120032
+1015,Shiloh (1997),23-May-1997,tt0120118
+1016,Con Air (1997),06-Jun-1997,tt0118880
+1017,Trees Lounge (1996),11-Oct-1996,tt0117958
+1018,Tie Me Up! Tie Me Down! (1990),01-Jan-1990,tt0101026
+1019,"Die xue shuang xiong (Killer, The) (1989)",01-Jan-1989,tt0097202
+1020,Gaslight (1944),01-Jan-1944,tt0036855
+1021,8 1/2 (1963),01-Jan-1963,tt0056801
+1022,"Fast, Cheap & Out of Control (1997)",01-Jan-1997,tt0119107
+1023,Fathers' Day (1997),09-May-1997,tt0119109
+1024,Mrs. Dalloway (1997),01-Jan-1997,tt0119723
+1025,Fire Down Below (1997),01-Jan-1997,tt0119123
+1026,"Lay of the Land, The (1997)",01-Jan-1997,tt0123953
+1027,"Shooter, The (1995)",01-Jan-1995,tt0114432
+1028,Grumpier Old Men (1995),01-Jan-1995,tt0113228
+1029,Jury Duty (1995),01-Jan-1995,tt0113500
+1030,"Beverly Hillbillies, The (1993)",01-Jan-1993,tt0106400
+1031,Lassie (1994),01-Jan-1994,tt0110305
+1032,Little Big League (1994),01-Jan-1994,tt0110363
+1033,Homeward Bound II: Lost in San Francisco (1996),08-Mar-1996,tt0116552
+1034,"Quest, The (1996)",26-Apr-1996,tt0117420
+1035,Cool Runnings (1993),01-Jan-1993,tt0106611
+1036,Drop Dead Fred (1991),01-Jan-1991,tt0101775
+1037,Grease 2 (1982),01-Jan-1982,tt0084021
+1038,Switchback (1997),01-Jan-1997,tt0119210
+1039,Hamlet (1996),24-Jan-1997,tt0116477
+1040,Two if by Sea (1996),01-Jan-1996,tt0118002
+1041,Forget Paris (1995),01-Jan-1995,tt0113097
+1042,Just Cause (1995),01-Jan-1995,tt0113501
+1043,Rent-a-Kid (1995),01-Jan-1995,tt0114268
+1044,"Paper, The (1994)",01-Jan-1994,tt0110771
+1045,Fearless (1993),01-Jan-1993,tt0106881
+1046,Malice (1993),01-Jan-1993,tt0107497
+1047,Multiplicity (1996),12-Jul-1996,tt0117108
+1048,She's the One (1996),23-Aug-1996,tt0117628
+1049,House Arrest (1996),02-Aug-1996,tt0116571
+1050,"Ghost and Mrs. Muir, The (1947)",01-Jan-1947,tt0039420
+1051,"Associate, The (1996)",19-Oct-1996,tt0115580
+1052,Dracula: Dead and Loving It (1995),01-Jan-1995,tt0112896
+1053,Now and Then (1995),01-Jan-1995,tt0114011
+1054,Mr. Wrong (1996),16-Feb-1996,tt0117102
+1055,"Simple Twist of Fate, A (1994)",01-Jan-1994,tt0111194
+1056,Cronos (1992),01-Jan-1992,tt0104029
+1057,"Pallbearer, The (1996)",19-Apr-1996,tt0117283
+1058,"War, The (1994)",01-Jan-1994,tt0111667
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),01-Jan-1996,tt0116126
+1060,"Adventures of Pinocchio, The (1996)",26-Jul-1996,tt0115472
+1061,"Evening Star, The (1996)",25-Dec-1996,tt0116240
+1062,Four Days in September (1997),23-Jan-1998,tt0119815
+1063,"Little Princess, A (1995)",01-Jan-1995,tt0113670
+1064,Crossfire (1947),01-Jan-1947,tt0039286
+1065,Koyaanisqatsi (1983),01-Jan-1983,tt0085809
+1066,Balto (1995),01-Jan-1995,tt0112453
+1067,Bottle Rocket (1996),21-Feb-1996,tt0115734
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)",01-Mar-1996,tt0114808
+1069,Amateur (1994),01-Jan-1994,tt0109093
+1070,Living in Oblivion (1995),01-Jan-1995,tt0113677
+1071,Party Girl (1995),01-Jan-1995,tt0114095
+1072,"Pyromaniac's Love Story, A (1995)",01-Jan-1995,tt0114210
+1073,Shallow Grave (1994),01-Jan-1994,tt0111149
+1074,Reality Bites (1994),01-Jan-1994,tt0110950
+1075,"Man of No Importance, A (1994)",01-Jan-1994,tt0110455
+1076,"Pagemaster, The (1994)",01-Jan-1994,tt0110763
+1077,Love and a .45 (1994),01-Jan-1994,tt0110395
+1078,Oliver & Company (1988),29-Mar-1988,tt0095776
+1079,Joe's Apartment (1996),26-Jul-1996,tt0116707
+1080,Celestial Clockwork (1994),12-Jul-1996,tt0109485
+1081,Curdled (1996),27-Sep-1996,tt0115994
+1082,Female Perversions (1996),25-Apr-1997,tt0116293
+1083,Albino Alligator (1996),17-Jan-1997,tt0115495
+1084,Anne Frank Remembered (1995),23-Feb-1996,tt0112373
+1085,Carried Away (1996),29-Mar-1996,tt0115837
+1086,It's My Party (1995),22-Mar-1996,tt0113443
+1087,Bloodsport 2 (1995),01-Mar-1996,tt0112536
+1088,Double Team (1997),04-Apr-1997,tt0119013
+1089,Speed 2: Cruise Control (1997),13-Jun-1997,tt0120179
+1090,Sliver (1993),01-Jan-1993,tt0108162
+1091,Pete's Dragon (1977),01-Jan-1977,tt0076538
+1092,Dear God (1996),01-Nov-1996,tt0116059
+1093,Live Nude Girls (1995),01-Mar-1996,tt0113674
+1094,"Thin Line Between Love and Hate, A (1996)",03-Apr-1996,tt0117891
+1095,High School High (1996),25-Oct-1996,tt0116531
+1096,Commandments (1997),02-May-1997,tt0115927
+1097,"Hate (Haine, La) (1995)",09-Feb-1996,tt0113247
+1098,Flirting With Disaster (1996),22-Mar-1996,tt0116324
+1099,"Red Firecracker, Green Firecracker (1994)",01-Jan-1994,tt0110769
+1100,What Happened Was... (1994),01-Jan-1994,tt0111689
+1101,Six Degrees of Separation (1993),01-Jan-1993,tt0108149
+1102,Two Much (1996),01-Jan-1996,tt0118001
+1103,Trust (1990),01-Jan-1990,tt0103130
+1104,C'est arrive pres de chez vous (1992),01-Jan-1992,tt0103905
+1105,Firestorm (1998),09-Jan-1998,tt0120670
+1106,"Newton Boys, The (1998)",14-Mar-1998,tt0120769
+1107,Beyond Rangoon (1995),01-Jan-1995,tt0112495
+1108,Feast of July (1995),01-Jan-1995,tt0113044
+1109,Death and the Maiden (1994),01-Jan-1994,tt0109579
+1110,Tank Girl (1995),01-Jan-1995,tt0114614
+1111,Double Happiness (1994),01-Mar-1996,tt0109655
+1112,Cobb (1994),01-Jan-1994,tt0109450
+1113,Mrs. Parker and the Vicious Circle (1994),01-Jan-1994,tt0110588
+1114,Faithful (1996),03-Apr-1996,tt0116269
+1115,Twelfth Night (1996),25-Oct-1996,tt5622262
+1116,"Mark of Zorro, The (1940)",01-Jan-1940,tt0032762
+1117,Surviving Picasso (1996),20-Sep-1996,tt0117791
+1118,Up in Smoke (1978),01-Jan-1978,tt0078446
+1119,Some Kind of Wonderful (1987),01-Jan-1987,tt0094006
+1120,I'm Not Rappaport (1996),13-Nov-1996,tt0116601
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",05-Apr-1996,tt0058450
+1122,They Made Me a Criminal (1939),01-Jan-1939,tt0032022
+1123,"Last Time I Saw Paris, The (1954)",01-Jan-1954,tt0047162
+1124,"Farewell to Arms, A (1932)",01-Jan-1932,tt0022879
+1125,"Innocents, The (1961)",01-Jan-1961,tt0055018
+1126,"Old Man and the Sea, The (1958)",01-Jan-1958,tt0052027
+1127,"Truman Show, The (1998)",01-Jan-1998,tt0120382
+1128,Heidi Fleiss: Hollywood Madam (1995) ,09-Feb-1996,tt0113283
+1129,Chungking Express (1994),16-Feb-1996,tt0109424
+1130,Jupiter's Wife (1994),09-Feb-1996,tt0110217
+1131,Safe (1995),01-Jan-1995,tt0114323
+1132,Feeling Minnesota (1996),13-Sep-1996,tt0116289
+1133,Escape to Witch Mountain (1975),01-Jan-1975,tt0072951
+1134,Get on the Bus (1996),16-Oct-1996,tt0116404
+1135,"Doors, The (1991)",01-Jan-1991,tt0101761
+1136,Ghosts of Mississippi (1996),20-Dec-1996,tt0116410
+1137,Beautiful Thing (1996),09-Oct-1996,tt0115640
+1138,Best Men (1997),01-Sep-1997,tt0118702
+1139,Hackers (1995),01-Jan-1995,tt0113243
+1140,"Road to Wellville, The (1994)",01-Jan-1994,tt0111001
+1141,"War Room, The (1993)",01-Jan-1993,tt0108515
+1142,When We Were Kings (1996),14-Feb-1997,tt0118147
+1143,Hard Eight (1996),28-Feb-1997,tt0119256
+1144,"Quiet Room, The (1996)",02-May-1997,tt0117422
+1145,Blue Chips (1994),01-Jan-1994,tt0109305
+1146,Calendar Girl (1993),01-Jan-1993,tt0106505
+1147,My Family (1995),01-Jan-1995,tt0113896
+1148,Tom & Viv (1994),01-Jan-1994,tt0111454
+1149,Walkabout (1971),20-Dec-1971,tt0067959
+1150,Last Dance (1996),03-May-1996,tt0116827
+1151,Original Gangstas (1996),10-May-1996,tt0117260
+1152,In Love and War (1996),24-Jan-1997,tt0116621
+1153,Backbeat (1993),01-Jan-1993,tt0106339
+1154,Alphaville (1965),01-Jan-1965,tt0058898
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",28-Jun-1996,tt0114266
+1156,Cyclo (1995),02-Aug-1996,tt0112767
+1157,"Relic, The (1997)",17-Jan-1997,tt0120004
+1158,"Fille seule, La (A Single Girl) (1995)",30-Oct-1996,tt0113057
+1159,Stalker (1979),01-Jan-1979,tt0079944
+1160,Love! Valour! Compassion! (1997),16-May-1997,tt0119578
+1161,Palookaville (1996),25-Oct-1996,tt0117284
+1162,Phat Beach (1996),02-Aug-1996,tt0117332
+1163,"Portrait of a Lady, The (1996)",27-Dec-1996,tt0117364
+1164,Zeus and Roxanne (1997),10-Jan-1997,tt0120550
+1165,Big Bully (1996),01-Jan-1996,tt0115676
+1166,Love & Human Remains (1993),01-Jan-1993,tt0107447
+1167,"Sum of Us, The (1994)",01-Jan-1994,tt0111309
+1168,Little Buddha (1993),01-Jan-1993,tt0107426
+1169,Fresh (1994),01-Jan-1994,tt0109842
+1170,Spanking the Monkey (1994),01-Jan-1994,tt0111252
+1171,Wild Reeds (1994),01-Jan-1994,tt0111019
+1172,"Women, The (1939)",01-Jan-1939,tt0032143
+1173,Bliss (1997),06-Jun-1997,tt0118742
+1174,Caught (1996),27-Sep-1996,tt0115847
+1175,Hugo Pool (1997),01-Jan-1997,tt0119327
+1176,Welcome To Sarajevo (1997),01-Jan-1997,tt0120490
+1177,Dunston Checks In (1996),01-Jan-1996,tt0116151
+1178,Major Payne (1994),01-Jan-1994,tt0110443
+1179,Man of the House (1995),01-Jan-1995,tt0113755
+1180,I Love Trouble (1994),01-Jan-1994,tt0110093
+1181,"Low Down Dirty Shame, A (1994)",01-Jan-1994,tt0110399
+1182,Cops and Robbersons (1994),01-Jan-1994,tt0109480
+1183,"Cowboy Way, The (1994)",01-Jan-1994,tt0109493
+1184,"Endless Summer 2, The (1994)",01-Jan-1994,tt0109729
+1185,In the Army Now (1994),01-Jan-1994,tt0110123
+1186,"Inkwell, The (1994)",01-Jan-1994,tt0110137
+1187,Switchblade Sisters (1975),17-May-1975,tt0073778
+1188,Young Guns II (1990),01-Jan-1990,tt0100994
+1189,Prefontaine (1997),24-Jan-1997,tt0119937
+1190,That Old Feeling (1997),04-Apr-1997,tt0120318
+1191,"Letter From Death Row, A (1998)",01-Feb-1998,tt0119521
+1192,"Boys of St. Vincent, The (1993)",01-Jan-1993,tt0106473
+1193,Before the Rain (Pred dozhdot) (1994),01-Jan-1994,tt0110882
+1194,Once Were Warriors (1994),01-Jan-1994,tt0110729
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),01-Jan-1993,tt0106966
+1196,"Savage Nights (Nuits fauves, Les) (1992)",01-Jan-1992,tt0105032
+1197,"Family Thing, A (1996)",23-Mar-1996,tt0116275
+1198,Purple Noon (1960),28-Jun-1960,tt0054189
+1199,Cemetery Man (Dellamorte Dellamore) (1994),12-Apr-1996,tt0109592
+1200,Kim (1950),01-Jan-1950,tt0042644
+1201,Marlene Dietrich: Shadow and Light (1996) ,02-Apr-1996,
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",19-Jul-1996,tt0109255
+1203,Top Hat (1935),01-Jan-1935,tt0027125
+1204,To Be or Not to Be (1942),01-Jan-1942,tt0035446
+1205,"Secret Agent, The (1996)",08-Nov-1996,tt0117582
+1206,Amos & Andrew (1993),01-Jan-1993,tt0106266
+1207,Jade (1995),01-Jan-1995,tt0113451
+1208,Kiss of Death (1995),01-Jan-1995,tt0113552
+1209,Mixed Nuts (1994),01-Jan-1994,tt0110538
+1210,Virtuosity (1995),01-Jan-1995,tt0114857
+1211,Blue Sky (1994),01-Jan-1994,tt0109306
+1212,Flesh and Bone (1993),01-Jan-1993,tt0106926
+1213,Guilty as Sin (1993),01-Jan-1993,tt0107057
+1214,In the Realm of the Senses (Ai no corrida) (1976),08-Mar-1976,tt0074102
+1215,Barb Wire (1996),03-May-1996,tt0115624
+1216,Kissed (1996),18-Apr-1997,tt0116783
+1217,Assassins (1995),01-Jan-1995,tt0112401
+1218,Friday (1995),01-Jan-1995,tt0113118
+1219,"Goofy Movie, A (1995)",01-Jan-1995,tt0113198
+1220,Higher Learning (1995),01-Jan-1995,tt0113305
+1221,When a Man Loves a Woman (1994),01-Jan-1994,tt0111693
+1222,Judgment Night (1993),01-Jan-1993,tt0107286
+1223,King of the Hill (1993),01-Jan-1993,tt0107322
+1224,"Scout, The (1994)",01-Jan-1994,tt0111094
+1225,Angus (1995),01-Jan-1995,tt0112368
+1226,Night Falls on Manhattan (1997),16-May-1997,tt0119783
+1227,"Awfully Big Adventure, An (1995)",01-Jan-1995,tt0112427
+1228,Under Siege 2: Dark Territory (1995),01-Jan-1995,tt0114781
+1229,Poison Ivy II (1995),01-Jan-1995,tt0114151
+1230,Ready to Wear (Pret-A-Porter) (1994),01-Jan-1994,tt0110907
+1231,Marked for Death (1990),01-Jan-1990,tt0100114
+1232,Madonna: Truth or Dare (1991),01-Jan-1991,tt0102370
+1233,Nenette et Boni (1996),01-Jan-1996,tt0117221
+1234,Chairman of the Board (1998),01-Jan-1998,tt0118836
+1235,"Big Bang Theory, The (1994)",01-Jan-1994,tt0109266
+1236,"Other Voices, Other Rooms (1997)",01-Jan-1997,tt0119845
+1237,Twisted (1996),01-Jan-1996,tt0117994
+1238,Full Speed (1996),01-Jan-1996,tt0118230
+1239,Cutthroat Island (1995),01-Jan-1995,tt0112760
+1240,Ghost in the Shell (Kokaku kidotai) (1995),12-Apr-1996,tt0113568
+1241,"Van, The (1996)",27-Jun-1997,tt0118064
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",01-Jan-1991,tt0103207
+1243,Night Flier (1997),06-Feb-1998,tt0119784
+1244,Metro (1997),17-Jan-1997,tt0119664
+1245,Gridlock'd (1997),29-Jan-1997,tt0119225
+1246,Bushwhacked (1995),01-Jan-1995,tt0112602
+1247,Bad Girls (1994),01-Jan-1994,tt0109198
+1248,Blink (1994),01-Jan-1994,tt0109297
+1249,For Love or Money (1993),01-Jan-1993,tt0106941
+1250,Best of the Best 3: No Turning Back (1995),01-Jan-1995,tt0112483
+1251,A Chef in Love (1996),25-Apr-1997,tt0117050
+1252,"Contempt (Mepris, Le) (1963)",27-Jun-1997,tt0057345
+1253,"Tie That Binds, The (1995)",01-Jan-1995,tt0114666
+1254,Gone Fishin' (1997),30-May-1997,tt0119214
+1255,Broken English (1996),02-May-1997,tt0115760
+1256,"Designated Mourner, The (1997)",23-May-1997,tt0118964
+1257,"Designated Mourner, The (1997)",23-May-1997,tt0118964
+1258,Trial and Error (1997),30-May-1997,tt0120373
+1259,Pie in the Sky (1995),09-Feb-1996,tt0114131
+1260,Total Eclipse (1995),01-Jan-1995,tt0114702
+1261,"Run of the Country, The (1995)",01-Jan-1995,tt0114307
+1262,Walking and Talking (1996),12-Jul-1996,tt0118113
+1263,Foxfire (1996),23-Aug-1996,tt0116353
+1264,Nothing to Lose (1994),16-Aug-1996,tt0110693
+1265,Star Maps (1997),01-Jan-1997,tt0120197
+1266,Bread and Chocolate (Pane e cioccolata) (1973),01-Jan-1973,tt0070506
+1267,Clockers (1995),01-Jan-1995,tt0112688
+1268,Bitter Moon (1992),01-Jan-1992,tt0104779
+1269,Love in the Afternoon (1957),01-Jan-1957,tt0050658
+1270,Life with Mikey (1993),01-Jan-1993,tt0107413
+1271,North (1994),01-Jan-1994,tt0110687
+1272,Talking About Sex (1994),01-Jan-1994,tt0111357
+1273,Color of Night (1994),01-Jan-1994,tt0109456
+1274,Robocop 3 (1993),01-Jan-1993,tt0107978
+1275,Killer (Bulletproof Heart) (1994),01-Jan-1994,tt0110259
+1276,Sunset Park (1996),26-Apr-1996,tt0117784
+1277,Set It Off (1996),25-Sep-1996,tt0117603
+1278,Selena (1997),21-Mar-1997,tt0120094
+1279,Wild America (1997),04-Jul-1997,tt0120512
+1280,Gang Related (1997),01-Jan-1997,tt0118900
+1281,Manny & Lo (1996),26-Jul-1996,tt0116985
+1282,"Grass Harp, The (1995)",11-Oct-1996,tt0113211
+1283,Out to Sea (1997),04-Jul-1997,tt0119848
+1284,Before and After (1996),23-Feb-1996,tt0115645
+1285,Princess Caraboo (1994),01-Jan-1994,tt0110892
+1286,Shall We Dance? (1937),01-Jan-1937,tt0358135
+1287,Ed (1996),08-Mar-1996,tt0116165
+1288,Denise Calls Up (1995),29-Mar-1996,tt0112844
+1289,Jack and Sarah (1995),22-Mar-1996,tt0113448
+1290,Country Life (1994),01-Jan-1994,tt0109491
+1291,Celtic Pride (1996),19-Apr-1996,tt0115851
+1292,"Simple Wish, A (1997)",11-Jul-1997,tt0120133
+1293,Star Kid (1997),16-Jan-1998,tt0120478
+1294,Ayn Rand: A Sense of Life (1997),13-Feb-1998,tt0118662
+1295,Kicked in the Head (1997),01-Jan-1997,tt0119457
+1296,Indian Summer (1996),01-Jan-1996,tt0107212
+1297,Love Affair (1994),01-Jan-1994,tt0110391
+1298,"Band Wagon, The (1953)",01-Jan-1953,tt0045537
+1299,Penny Serenade (1941),01-Jan-1941,tt0034012
+1300,'Til There Was You (1997),30-May-1997,tt0118523
+1301,Stripes (1981),01-Jan-1981,tt0083131
+1302,Late Bloomers (1996),06-Jun-1997,tt0116834
+1303,"Getaway, The (1994)",01-Jan-1994,tt0109890
+1304,New York Cop (1996),01-Jan-1996,tt0117169
+1305,National Lampoon's Senior Trip (1995),01-Jan-1995,tt0113936
+1306,Delta of Venus (1994),01-Jan-1994,tt0109593
+1307,Carmen Miranda: Bananas Is My Business (1994),01-Jan-1994,tt0109381
+1308,Babyfever (1994),01-Jan-1994,tt0109191
+1309,"Very Natural Thing, A (1974)",01-Jan-1974,tt0072362
+1310,"Walk in the Sun, A (1945)",01-Jan-1945,tt0038235
+1311,Waiting to Exhale (1995),15-Jan-1996,tt0114885
+1312,"Pompatus of Love, The (1996)",26-Jul-1996,tt0117357
+1313,Palmetto (1998),20-Feb-1998,tt0120782
+1314,Surviving the Game (1994),01-Jan-1994,tt0111323
+1315,Inventing the Abbotts (1997),04-Apr-1997,tt0119381
+1316,"Horse Whisperer, The (1998)",25-Dec-1997,tt0119314
+1317,"Journey of August King, The (1995)",22-Mar-1996,tt0113490
+1318,Catwalk (1995),07-Jun-1996,tt0112646
+1319,"Neon Bible, The (1995)",01-Mar-1996,tt0113952
+1320,Homage (1995),03-May-1996,tt0113319
+1321,Open Season (1996),10-May-1996,tt0114047
+1322,Metisse (Cafe au Lait) (1993),01-Jan-1993,tt0107642
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)",01-Jan-1994,tt0111752
+1324,Loaded (1994),12-Apr-1996,tt0110374
+1325,August (1996),12-Apr-1996,tt0115591
+1326,Boys (1996),10-May-1996,tt0115742
+1327,Captives (1994),16-Sep-1994,tt0109374
+1328,Of Love and Shadows (1994),10-May-1996,tt0110712
+1329,"Low Life, The (1994)",10-May-1996,tt0110400
+1330,An Unforgettable Summer (1994),01-Jan-1994,tt0111546
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",01-Jan-1995,tt0113610
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),01-Jan-1993,tt0106810
+1333,Midnight Dancers (Sibak) (1994),01-Jan-1994,tt0111180
+1334,Somebody to Love (1994),14-Jun-1996,tt0111237
+1335,American Buffalo (1996),13-Sep-1996,tt0115530
+1336,Kazaam (1996),17-Jul-1996,tt0116756
+1337,Larger Than Life (1996),01-Nov-1996,tt0116823
+1338,Two Deaths (1995),09-Aug-1996,tt0117999
+1339,Stefano Quantestorie (1993),01-Jan-1993,tt0108220
+1340,"Crude Oasis, The (1995)",01-Jan-1995,tt0112746
+1341,Hedd Wyn (1992),01-Jan-1992,tt0104403
+1342,"Convent, The (Convento, O) (1995)",14-Jun-1996,tt0112716
+1343,Lotto Land (1995),01-Jan-1995,tt0113695
+1344,"Story of Xinghua, The (1993)",01-Jan-1993,tt0108227
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",01-Jan-1994,tt0111424
+1346,Dingo (1992),01-Jan-1992,tt4599028
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",01-Jan-1958,tt0051980
+1348,Every Other Weekend (1990),01-Jan-1990,tt6111598
+1349,Mille bolle blu (1993),01-Jan-1993,tt0107575
+1350,Crows and Sparrows (1949),01-Jan-1949,tt0042054
+1351,Lover's Knot (1996),12-Jul-1996,tt0116934
+1352,Shadow of Angels (Schatten der Engel) (1976),01-Jan-1976,tt0075169
+1353,1-900 (1994),01-Jan-1994,tt0109001
+1354,Venice/Venice (1992),01-Jan-1992,tt0105729
+1355,Infinity (1996),04-Oct-1996,tt0116635
+1356,Ed's Next Move (1996),04-Oct-1996,tt0116167
+1357,For the Moment (1994),01-Jan-1994,tt0110665
+1358,The Deadly Cure (1996),16-Sep-1996,
+1359,Boys in Venice (1996),24-Sep-1996,
+1360,"Sexual Life of the Belgians, The (1994)",01-Jan-1994,tt0111622
+1361,"Search for One-eye Jimmy, The (1996)",01-Jan-1996,tt0117577
+1362,American Strays (1996),13-Sep-1996,tt0115531
+1363,"Leopard Son, The (1996)",27-Sep-1996,tt0116859
+1364,Bird of Prey (1996),04-Oct-1996,tt0115684
+1365,Johnny 100 Pesos (1993),01-Jan-1993,tt4440776
+1366,JLG/JLG - autoportrait de decembre (1994),01-Jan-1994,tt0110173
+1367,Faust (1994),01-Jan-1994,tt0109781
+1368,Mina Tannenbaum (1994),01-Jan-1994,tt0110521
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)",01-Jan-1950,tt0042354
+1370,I Can't Sleep (J'ai pas sommeil) (1994),01-Jan-1994,tt0110171
+1371,"Machine, The (1994)",01-Jan-1994,tt0109575
+1372,"Stranger, The (1994)",01-Jan-1994,tt0111219
+1373,Good Morning (1971),4-Feb-1971,tt0053134
+1374,Falling in Love Again (1980),01-Jan-1980,tt0080714
+1375,"Cement Garden, The (1993)",01-Jan-1993,tt0106535
+1376,Meet Wally Sparks (1997),31-Jan-1997,tt0119644
+1377,Hotel de Love (1996),07-Feb-1997,tt0116565
+1378,Rhyme & Reason (1997),05-Mar-1997,tt0120014
+1379,Love and Other Catastrophes (1996),28-Mar-1997,tt0116931
+1380,Hollow Reed (1996),02-May-1997,tt0113314
+1381,Losing Chase (1996),01-Jan-1996,tt0116920
+1382,"Bonheur, Le (1965)",16-May-1997,tt0058985
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)",16-May-1997,tt0120087
+1384,Squeeze (1996),13-Jun-1997,tt0117724
+1385,Roseanna's Grave (For Roseanna) (1997),20-Jun-1997,tt0120034
+1386,Tetsuo II: Body Hammer (1992),20-Jun-1997,tt0105569
+1387,Fall (1997),27-Jun-1997,tt0119098
+1388,Gabbeh (1996),27-Jun-1997,tt0116384
+1389,Mondo (1996),27-Jun-1997,tt0117076
+1390,"Innocent Sleep, The (1995)",27-Jun-1997,tt0113425
+1391,For Ever Mozart (1996),04-Jul-1997,tt0116334
+1392,"Locusts, The (1997)",01-Jan-1997,tt0119557
+1393,Stag (1997),01-Jan-1997,tt0120192
+1394,Swept from the Sea (1997),01-Jan-1997,tt0120257
+1395,Hurricane Streets (1998),01-Jan-1998,tt0119338
+1396,Stonewall (1995),26-Jul-1996,tt0114550
+1397,Of Human Bondage (1934),01-Jan-1934,tt0025586
+1398,Anna (1996),13-Nov-1996,tt2661954
+1399,Stranger in the House (1997),01-Jan-1997,tt0120222
+1400,Picture Bride (1995),01-Jan-1995,tt0114129
+1401,M. Butterfly (1993),01-Jan-1993,tt0107468
+1402,"Ciao, Professore! (1993)",01-Jan-1993,tt0107225
+1403,Caro Diario (Dear Diary) (1994),01-Jan-1994,tt0109382
+1404,Withnail and I (1987),01-Jan-1987,tt0094336
+1405,Boy's Life 2 (1997),07-Mar-1997,tt0118762
+1406,When Night Is Falling (1995),01-Jan-1995,tt0114916
+1407,"Specialist, The (1994)",01-Jan-1994,tt0111255
+1408,Gordy (1995),01-Jan-1995,tt0113199
+1409,"Swan Princess, The (1994)",01-Jan-1994,tt0111333
+1410,Harlem (1993),01-Jan-1993,tt0107079
+1411,Barbarella (1968),01-Jan-1968,tt0062711
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),01-Jan-1995,tt0113596
+1413,Street Fighter (1994),01-Jan-1994,tt0111301
+1414,Coldblooded (1995),01-Jan-1995,tt0112702
+1415,"Next Karate Kid, The (1994)",01-Jan-1994,tt0110657
+1416,No Escape (1994),01-Jan-1994,tt0110678
+1417,"Turning, The (1992)",02-May-1997,tt0105660
+1418,"Joy Luck Club, The (1993)",01-Jan-1993,tt0107282
+1419,Highlander III: The Sorcerer (1994),01-Jan-1994,tt0110027
+1420,Gilligan's Island: The Movie (1998),01-Jan-1997,
+1421,My Crazy Life (Mi vida loca) (1993),01-Jan-1993,tt0107566
+1422,Suture (1993),01-Jan-1993,tt0108260
+1423,"Walking Dead, The (1995)",01-Jan-1995,tt0114888
+1424,I Like It Like That (1994),01-Jan-1994,tt0110091
+1425,I'll Do Anything (1994),01-Jan-1994,tt0110097
+1426,Grace of My Heart (1996),13-Sep-1996,tt0116442
+1427,Drunks (1995),01-Nov-1996,tt0112907
+1428,SubUrbia (1997),07-Feb-1997,tt0120238
+1429,Sliding Doors (1998),01-Jan-1998,tt0120148
+1430,Ill Gotten Gains (1997),01-Jan-1997,tt0119352
+1431,Legal Deceit (1997),01-Jan-1997,tt0130073
+1432,"Mighty, The (1998)",09-Oct-1998,tt0120751
+1433,Men of Means (1998),01-Jan-1997,tt0119655
+1434,Shooting Fish (1997),16-Jan-1998,tt0120122
+1435,"Steal Big, Steal Little (1995)",01-Jan-1995,tt0114536
+1436,Mr. Jones (1993),01-Jan-1993,tt0107611
+1437,House Party 3 (1994),01-Jan-1994,tt0110064
+1438,Panther (1995),01-Jan-1995,tt0114084
+1439,Jason's Lyric (1994),01-Jan-1994,tt0110186
+1440,Above the Rim (1994),01-Jan-1994,tt0109035
+1441,Moonlight and Valentino (1995),01-Jan-1995,tt0113851
+1442,"Scarlet Letter, The (1995)",01-Jan-1995,tt0114345
+1443,8 Seconds (1994),01-Jan-1994,tt0109021
+1444,That Darn Cat! (1965),01-Jan-1965,tt0059793
+1445,Ladybird Ladybird (1994),01-Jan-1994,tt0110296
+1446,"Bye Bye, Love (1995)",01-Jan-1995,tt0112606
+1447,Century (1993),01-Jan-1993,tt0106537
+1448,My Favorite Season (1993),19-Apr-1996,tt0107471
+1449,Pather Panchali (1955),22-Mar-1996,tt0048473
+1450,Golden Earrings (1947),01-Jan-1947,tt0039428
+1451,Foreign Correspondent (1940),01-Jan-1940,tt0032484
+1452,Lady of Burlesque (1943),01-Jan-1943,tt0036094
+1453,Angel on My Shoulder (1946),01-Jan-1946,tt0038300
+1454,Angel and the Badman (1947),01-Jan-1947,tt0039152
+1455,"Outlaw, The (1943)",01-Jan-1943,tt0036241
+1456,Beat the Devil (1954),01-Jan-1954,tt0046414
+1457,Love Is All There Is (1996),11-Oct-1996,tt0116928
+1458,"Damsel in Distress, A (1937)",01-Jan-1937,tt0028757
+1459,Madame Butterfly (1995),20-Sep-1996,tt0113731
+1460,Sleepover (1995),25-Oct-1996,tt0114472
+1461,Here Comes Cookie (1935),01-Jan-1935,tt0026465
+1462,"Thieves (Voleurs, Les) (1996)",25-Dec-1996,tt0118100
+1463,"Boys, Les (1997)",01-Jan-1997,tt0118764
+1464,"Stars Fell on Henrietta, The (1995)",01-Jan-1995,tt0114534
+1465,Last Summer in the Hamptons (1995),01-Jan-1995,tt0113612
+1466,Margaret's Museum (1995),01-Jan-1995,tt0113774
+1467,"Saint of Fort Washington, The (1993)",01-Jan-1993,tt0108026
+1468,"Cure, The (1995)",01-Jan-1995,tt0112757
+1469,Tom and Huck (1995),01-Jan-1995,tt0112302
+1470,Gumby: The Movie (1995),01-Jan-1995,tt0113234
+1471,Hideaway (1995),01-Jan-1995,tt0113303
+1472,"Visitors, The (Visiteurs, Les) (1993)",19-Jul-1996,tt0108500
+1473,"Little Princess, The (1939)",01-Jan-1939,tt0031580
+1474,Nina Takes a Lover (1994),01-Jan-1994,tt0110671
+1475,Bhaji on the Beach (1993),01-Jan-1993,tt0106408
+1476,Raw Deal (1948),01-Jan-1948,tt0040723
+1477,Nightwatch (1997),22-Apr-1997,tt0119791
+1478,Dead Presidents (1995),01-Jan-1995,tt0112819
+1479,Reckless (1995),01-Jan-1995,tt0114241
+1480,Herbie Rides Again (1974),01-Jan-1974,tt0071607
+1481,S.F.W. (1994),01-Jan-1994,tt0111048
+1482,"Gate of Heavenly Peace, The (1995)",10-May-1996,tt0113147
+1483,"Man in the Iron Mask, The (1998)",17-Mar-1998,tt0120744
+1484,"Jerky Boys, The (1994)",01-Jan-1994,tt0110189
+1485,"Colonel Chabert, Le (1994)",01-Jan-1994,tt0109454
+1486,Girl in the Cadillac (1995),01-Jan-1995,tt0113173
+1487,Even Cowgirls Get the Blues (1993),01-Jan-1993,tt0106834
+1488,Germinal (1993),01-Jan-1993,tt0107002
+1489,Chasers (1994),01-Jan-1994,tt0109403
+1490,Fausto (1993),01-Jan-1993,tt0106878
+1491,Tough and Deadly (1995),01-Jan-1995,tt0114706
+1492,Window to Paris (1994),01-Jan-1994,tt0110719
+1493,"Modern Affair, A (1995)",06-Sep-1996,tt0113839
+1494,"Mostro, Il (1994)",19-Apr-1996,tt0110570
+1495,Flirt (1995),07-Aug-1996,tt0113080
+1496,Carpool (1996),23-Aug-1996,tt0115836
+1497,"Line King: Al Hirschfeld, The (1996)",11-Oct-1996,tt0116886
+1498,Farmer & Chase (1995),10-Jan-1997,tt0113031
+1499,Grosse Fatigue (1994),01-Jan-1994,tt0109942
+1500,Santa with Muscles (1996),08-Nov-1996,tt0117550
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),31-Jan-1997,tt0116754
+1502,Naked in New York (1994),01-Jan-1994,tt0110623
+1503,Gold Diggers: The Secret of Bear Mountain (1995),01-Jan-1995,tt0113188
+1504,"Bewegte Mann, Der (1994)",12-Jul-1996,tt0109255
+1505,Killer: A Journal of Murder (1995),06-Sep-1996,tt0113542
+1506,Nelly & Monsieur Arnaud (1995),12-Apr-1996,tt0113947
+1507,Three Lives and Only One Death (1996),11-Oct-1996,tt0117968
+1508,"Babysitter, The (1995)",01-Jan-1995,tt7222308
+1509,Getting Even with Dad (1994),01-Jan-1994,tt0109891
+1510,Mad Dog Time (1996),08-Nov-1996,tt0116953
+1511,Children of the Revolution (1996),01-May-1997,tt0115886
+1512,"World of Apu, The (Apur Sansar) (1959)",05-Apr-1996,tt0052572
+1513,Sprung (1997),14-May-1997,tt0120190
+1514,Dream With the Fishes (1997),20-Jun-1997,tt0119019
+1515,Wings of Courage (1995),01-Jan-1995,tt0114952
+1516,"Wedding Gift, The (1994)",01-Jan-1994,
+1517,Race the Sun (1996),01-Jan-1996,tt0117427
+1518,Losing Isaiah (1995),01-Jan-1995,tt0113691
+1519,New Jersey Drive (1995),01-Jan-1995,tt0113967
+1520,"Fear, The (1995)",01-Jan-1995,tt0112791
+1521,Mr. Wonderful (1993),01-Jan-1993,tt0107613
+1522,Trial by Jury (1994),01-Jan-1994,tt0111488
+1523,"Good Man in Africa, A (1994)",01-Jan-1994,tt0109920
+1524,Kaspar Hauser (1993),07-Jun-1996,tt0110246
+1525,"Object of My Affection, The (1998)",20-Mar-1998,tt0120772
+1526,Witness (1985),01-Jan-1985,tt0090329
+1527,Senseless (1998),09-Jan-1998,tt0120820
+1528,Nowhere (1997),09-May-1997,tt0119809
+1529,Underground (1995),29-Mar-1996,tt0114787
+1530,Jefferson in Paris (1995),01-Jan-1995,tt0113463
+1531,Far From Home: The Adventures of Yellow Dog (1995),01-Jan-1995,tt0113028
+1532,Foreign Student (1994),01-Jan-1994,tt0109828
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),01-Jan-1993,tt0106678
+1534,Twin Town (1997),30-May-1997,tt0120394
+1535,"Enfer, L' (1994)",01-Jan-1994,tt0109731
+1536,Aiqing wansui (1994),22-Jul-1996,tt0109066
+1537,Cosi (1996),11-Apr-1997,tt0115951
+1538,All Over Me (1997),25-Apr-1997,tt0118586
+1539,Being Human (1993),01-Jan-1993,tt0106379
+1540,"Amazing Panda Adventure, The (1995)",01-Jan-1995,tt0112342
+1541,"Beans of Egypt, Maine, The (1994)",01-Jan-1994,tt0109226
+1542,"Scarlet Letter, The (1926)",01-Jan-1926,tt0017350
+1543,Johns (1996),18-Oct-1996,tt0116714
+1544,It Takes Two (1995),01-Jan-1995,tt0113442
+1545,Frankie Starlight (1995),01-Jan-1995,tt0113107
+1546,Shadows (Cienie) (1988),01-Jan-1988,tt0094878
+1547,"Show, The (1995)",01-Jan-1995,tt0114435
+1548,The Courtyard (1995),01-Jan-1995,tt2593224
+1549,Dream Man (1995),01-Jan-1995,tt0113429
+1550,Destiny Turns on the Radio (1995),01-Jan-1995,tt0112854
+1551,"Glass Shield, The (1994)",01-Jan-1994,tt0109906
+1552,"Hunted, The (1995)",01-Jan-1995,tt0113360
+1553,"Underneath, The (1995)",01-Jan-1995,tt0029713
+1554,Safe Passage (1994),01-Jan-1994,tt0111054
+1555,"Secret Adventures of Tom Thumb, The (1993)",01-Jan-1993,tt0108069
+1556,Condition Red (1995),01-Jan-1995,tt0112712
+1557,Yankee Zulu (1994),16-Feb-1996,tt0111787
+1558,Aparajito (1956),29-Mar-1996,tt0048956
+1559,Hostile Intentions (1994),01-Jan-1994,tt0181581
+1560,Clean Slate (Coup de Torchon) (1981),01-Jan-1981,tt0082206
+1561,Tigrero: A Film That Was Never Made (1994),01-Jan-1994,tt0111430
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",01-Jan-1993,tt0107727
+1563,"Promise, The (Versprechen, Das) (1994)",01-Jan-1994,tt0111613
+1564,To Cross the Rubicon (1991),01-Jan-1991,tt0103095
+1565,Daens (1992),01-Jan-1992,tt0104046
+1566,"Man from Down Under, The (1943)",01-Jan-1943,tt0031612
+1567,Careful (1992),01-Jan-1992,tt0103926
+1568,Vermont Is For Lovers (1992),01-Jan-1992,tt0105737
+1569,"Vie est belle, La (Life is Rosey) (1987)",01-Jan-1987,tt0094265
+1570,Quartier Mozart (1992),01-Jan-1992,tt0105201
+1571,Touki Bouki (Journey of the Hyena) (1973),01-Jan-1973,tt0070820
+1572,Wend Kuuni (God's Gift) (1982),01-Jan-1982,tt0084898
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),01-Jan-1968,tt0063715
+1574,Pharaoh's Army (1995),01-Jan-1995,tt0114122
+1575,"I, Worst of All (Yo, la peor de todas) (1990)",01-Jan-1990,tt0100990
+1576,"Hungarian Fairy Tale, A (1987)",01-Jan-1987,tt0093199
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)",01-Jan-1956,tt0049521
+1578,"Collectionneuse, La (1967)",01-Jan-1967,tt0061495
+1579,Baton Rouge (1988),01-Jan-1988,tt0094822
+1580,Liebelei (1933),01-Jan-1933,tt0024252
+1581,"Woman in Question, The (1950)",01-Jan-1950,tt0043140
+1582,T-Men (1947),01-Jan-1947,tt0039881
+1583,"Invitation, The (Zaproszenie) (1986)",01-Jan-1986,tt0092281
+1584,"Symphonie pastorale, La (1946)",01-Jan-1946,tt0039004
+1585,American Dream (1990),01-Jan-1990,tt0099028
+1586,Lashou shentan (1992),01-Jan-1992,tt0104684
+1587,Terror in a Texas Town (1958),01-Jan-1958,tt0052287
+1588,Salut cousin! (1996),21-Feb-1997,tt0117544
+1589,Schizopolis (1996),23-May-1997,tt0117561
+1590,"To Have, or Not (1995)",06-Jun-1997,tt0114070
+1591,Duoluo tianshi (1995),21-Jan-1998,tt0112913
+1592,"Magic Hour, The (1998)",30-Jan-1998,tt3624934
+1593,Death in Brunswick (1991),16-Aug-1996,tt0101692
+1594,Everest (1998),10-Mar-1998,tt3044580
+1595,Shopping (1994),09-Feb-1996,tt0111173
+1596,Nemesis 2: Nebula (1995),01-Jan-1995,tt0113948
+1597,Romper Stomper (1992),01-Jan-1992,tt0105275
+1598,City of Industry (1997),14-Mar-1997,tt0118859
+1599,Someone Else's America (1995),10-May-1996,tt0114494
+1600,Guantanamera (1994),16-May-1997,tt0109949
+1601,Office Killer (1997),01-Jan-1997,tt0119819
+1602,"Price Above Rubies, A (1998)",20-Mar-1998,tt0120793
+1603,Angela (1995),16-Feb-1996,tt0112364
+1604,He Walked by Night (1948),01-Jan-1948,tt0040427
+1605,Love Serenade (1996),11-Jul-1997,tt0116930
+1606,Deceiver (1997),01-Jan-1997,tt0119527
+1607,Hurricane Streets (1998),01-Jan-1998,tt0119338
+1608,Buddy (1997),06-Jun-1997,tt0118787
+1609,B*A*P*S (1997),28-Mar-1997,tt0118663
+1610,"Truth or Consequences, N.M. (1997)",02-May-1997,tt0120383
+1611,Intimate Relations (1996),09-May-1997,tt0116643
+1612,"Leading Man, The (1996)",16-Jan-1998,tt0116845
+1613,Tokyo Fist (1995),11-Feb-1998,tt0114690
+1614,"Reluctant Debutante, The (1958)",01-Jan-1958,tt0052126
+1615,Warriors of Virtue (1997),02-May-1997,tt0120479
+1616,Desert Winds (1995),01-Jan-1995,tt0112849
+1617,Hugo Pool (1997),01-Jan-1997,tt0119327
+1618,King of New York (1990),01-Jan-1990,tt0099939
+1619,All Things Fair (1996),08-Mar-1996,tt0113720
+1620,"Sixth Man, The (1997)",28-Mar-1997,tt0120142
+1621,Butterfly Kiss (1995),26-Apr-1996,tt0112604
+1622,"Paris, France (1993)",01-Jan-1993,tt0107779
+1623,"Ceremonie, La (1995)",20-Dec-1996,tt0112769
+1624,Hush (1998),10-Mar-1998,tt0118744
+1625,Nightwatch (1997),22-Apr-1997,tt0119791
+1626,Nobody Loves Me (Keiner liebt mich) (1994),09-Feb-1996,tt0110251
+1627,"Wife, The (1995)",26-Jul-1996,tt0114936
+1628,Lamerica (1994),01-Jan-1994,tt0110299
+1629,Nico Icon (1995),01-Jan-1995,tt0113973
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",02-Feb-1996,tt0111055
+1631,"Slingshot, The (1993)",01-Jan-1993,tt0107349
+1632,Land and Freedom (Tierra y libertad) (1995),29-Mar-1996,tt0114671
+1633,e keldum klaka (Cold Fever) (1994),08-Mar-1996,tt0109028
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),19-Apr-1996,tt0109751
+1635,Two Friends (1986) ,26-Apr-1986,tt0092123
+1636,Brothers in Trouble (1995),26-Apr-1996,tt0112586
+1637,Girls Town (1996),23-Aug-1996,tt0116418
+1638,Normal Life (1996),25-Oct-1996,tt0117202
+1639,Bitter Sugar (Azucar Amargo) (1996),22-Nov-1996,tt0115600
+1640,"Eighth Day, The (1996)",01-Nov-1996,tt0064222
+1641,Dadetown (1995),18-Sep-1996,tt0112777
+1642,Some Mother's Son (1996),27-Dec-1996,tt0117690
+1643,Angel Baby (1995),10-Jan-1997,tt0112362
+1644,Sudden Manhattan (1996),13-Jun-1997,tt0117775
+1645,"Butcher Boy, The (1998)",01-Jan-1998,tt0118804
+1646,Men With Guns (1997),06-Mar-1998,tt0119657
+1647,Hana-bi (1997),20-Mar-1998,tt0119250
+1648,"Niagara, Niagara (1997)",20-Mar-1998,tt0119780
+1649,"Big One, The (1997)",27-Mar-1998,tt0124295
+1650,"Butcher Boy, The (1998)",01-Jan-1998,
+1651,"Spanish Prisoner, The (1997)",27-Mar-1998,tt0120176
+1652,Temptress Moon (Feng Yue) (1996),13-Jun-1997,tt0116295
+1653,Entertaining Angels: The Dorothy Day Story (1996),27-Sep-1996,tt0116212
+1654,Chairman of the Board (1998),01-Jan-1998,tt0118836
+1655,"Favor, The (1994)",01-Jan-1994,tt0109783
+1656,Little City (1998),20-Feb-1998,tt0119548
+1657,Target (1995),28-Feb-1996,tt0114618
+1658,"Substance of Fire, The (1996)",06-Dec-1996,tt0117773
+1659,Getting Away With Murder (1996),12-Apr-1996,tt0116405
+1660,Small Faces (1995),09-Aug-1996,tt0114474
+1661,"New Age, The (1994)",01-Jan-1994,tt0110649
+1662,Rough Magic (1995),30-May-1997,tt0114303
+1663,Nothing Personal (1995),30-Apr-1997,tt0114007
+1664,8 Heads in a Duffel Bag (1997),18-Apr-1997,tt0118541
+1665,"Brother's Kiss, A (1997)",25-Apr-1997,tt0118783
+1666,Ripe (1996),02-May-1997,tt0117482
+1667,"Next Step, The (1995)",13-Jun-1997,tt0113968
+1668,Wedding Bell Blues (1996),13-Jun-1997,tt0118127
+1669,MURDER and murder (1996),20-Jun-1997,tt0116949
+1670,Tainted (1998),01-Feb-1998,tt0128690
+1671,"Further Gesture, A (1996)",20-Feb-1998,tt0116379
+1672,Kika (1993),01-Jan-1993,tt0107315
+1673,Mirage (1995),01-Jan-1995,tt0113827
+1674,Mamma Roma (1962),01-Jan-1962,tt0056215
+1675,"Sunchaser, The (1996)",25-Oct-1996,tt0117781
+1676,"War at Home, The (1996)",01-Jan-1996,tt0118117
+1677,Sweet Nothing (1995),20-Sep-1996,tt0114592
+1678,Mat' i syn (1997),06-Feb-1998,tt0119711
+1679,B. Monkey (1998),06-Feb-1998,tt0120594
+1680,Sliding Doors (1998),01-Jan-1998,tt0120148
+1681,You So Crazy (1994),01-Jan-1994,tt0111804
+1682,Scream of Stone (Schrei aus Stein) (1991),08-Mar-1996,tt0102855

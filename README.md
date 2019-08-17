@@ -1,0 +1,3 @@
+## Movie Knowledge Graph
+
+对ml-100k数据集进行扩充，构建一个电影知识图谱。使用ml-100k数据集中的电影名称，在IMDB电影网站使用Requests和BeautifulSoup等Python爬虫工具爬取相关电影信息，导入到Mongodb数据库中，再从Mongodb电影中读取信息，对信息进行处理后导入Neo4j图数据库构建电影知识图谱。
